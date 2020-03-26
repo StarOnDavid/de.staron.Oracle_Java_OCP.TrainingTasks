@@ -16,11 +16,11 @@ public class OS_run {
 		};
 		
 		System.out.println("-- after ASC sort -----\n");
-		Arrays.sort(os, new MyOScmp());
+		Arrays.sort(os);
 		printOSArray(os);
 		
 		// FRAGE ... wie geht es ohne den hinzugefügten Comperator?
-		int posMac = Arrays.binarySearch(os, new OS("Mac", 9), new MyOScmp());
+		int posMac = Arrays.binarySearch(os, new OS("Mac", 9));
 		System.out.println("\nMac ist an pos.: " + (posMac+1));
 		
 		System.out.println("\n-- after DESC sort ----\n");
@@ -54,15 +54,6 @@ public class OS_run {
 	      os[index] = os[i];
 	      os[i] = tmp;
 	    }
-	}
-}
-
-class MyOScmp implements Comparator<OS> {
-
-	@Override
-	public int compare(OS o1, OS o2) {
-		return 	o1.getName().compareTo(o2.getName()) + 
-				o1.getVersion().compareTo(o2.getVersion());
 	}
 }
 
