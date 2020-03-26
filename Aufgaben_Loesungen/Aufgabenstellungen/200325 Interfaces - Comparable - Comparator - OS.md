@@ -5,8 +5,11 @@ Erstellen Sie  eine Klasse "OS" (Operating System) mit den Attributen 'String na
 
 *Erstellen Sie eine Klasse mit der main-Methode, in der folgende Aufgaben gelöst werden*
 
+
 #### A2.
-Speichern Sie in einem Array vier OS-Referenzen (keine Strings):
+Speichern Sie in einem <s>Array</s> vier OS-Referenzen (keine Strings):
+
+**Der Dozent hat bei der Lösung die Aufgabenstellung so abgeändert das mit einer Liste gearbeitet wird.**
 
         Linux 3
         Windows 95
