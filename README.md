@@ -8,8 +8,8 @@
 
 ### 26.03.2020
 #### Aufgaben
-		[Interfaces - String Transform}(https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200326%20Interfaces%20-%20String%20Transform.md)
-		[*Optional* Enums - Hunderassen](https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200326%20Enums%20-%20Hunderassen.md)
+[Interfaces - String Transform}(https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200326%20Interfaces%20-%20String%20Transform.md)
+[*Optional* Enums - Hunderassen](https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200326%20Enums%20-%20Hunderassen.md)
 
 #### Lösungen
 		[Interfaces - String Transform](https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200326_Interfaces_StringTransformation)
