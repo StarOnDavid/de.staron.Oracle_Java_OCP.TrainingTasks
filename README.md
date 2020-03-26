@@ -5,7 +5,8 @@
 
 ### Aufgaben 26.03.2020
 [Interfaces - String Transform](https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200326%20Interfaces%20-%20String%20Transform.md)
- -> [Lösung](https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200326_Interfaces_StringTransformation)
+ -> [Lösung 1 (mit Enum)](https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200326_Interfaces_StringTransformation)
+ -> [Lösung 2 (mit Interface)](https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200326_Interfaces_StringTransformation_v2)
 
 [*Optional* Enums - Hunderassen](https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200326%20Enums%20-%20Hunderassen.md)
  -> [Lösung](https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200326_Enums_Hunderassen)
