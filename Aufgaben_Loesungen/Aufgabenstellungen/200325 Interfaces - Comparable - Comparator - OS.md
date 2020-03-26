@@ -9,7 +9,7 @@ Erstellen Sie  eine Klasse "OS" (Operating System) mit den Attributen 'String na
 #### A2.
 Speichern Sie in einem <s>Array</s> vier OS-Referenzen (keine Strings):
 
-**Der Dozent hat bei der Lösung die Aufgabenstellung so abgeändert das mit einer Liste gearbeitet wird.**
+**Der Dozent hat bei der Lösung die Aufgabenstellung so abgeändert das mit einer Liste gearbeitet wird !!!**
 
         Linux 3
         Windows 95
