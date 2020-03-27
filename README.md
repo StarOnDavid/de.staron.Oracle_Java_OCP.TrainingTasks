@@ -26,7 +26,7 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200327_Kleine_Aufgabe_Enums> Lösung Dozent </a>
    	</td>
   </tr>
-  <tr><td>&#160;</td></tr>
+  <tr><td>&#160;</td><td>&#160;</td></tr>
 </table>
 
 &#160;
