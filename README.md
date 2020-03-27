@@ -1,12 +1,13 @@
-## de.staron.Oracle_Java_OCP.TrainingTasks
-**Training tasks from my Oracle Java OCP course.**
+##Übungsaufgaben aus meinem Java OCP Kurs.
+
+Diese README.md Datei dient als Inhaltsverzeichniss.
 
 &#160;
 &#160;
 
 ---
 
-### Aufgaben Vorlage
+### Aufgaben 27.03.2020
 <table>
   <tr>
     <th width=400 align="left">Aufgabenstellungen</th>
@@ -58,7 +59,7 @@
   <tr>
   	<td></td>
   	<td>
-  	  <a href = > Lösung Dozent </a>
+  	  <a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200326_Interfaces_StringTransformation> Lösung Dozent </a>
   	</td>
   </tr>
   <tr><td>&#160;</td><td>&#160;</td></tr>
@@ -110,8 +111,6 @@
 
 &#160;
 &#160;
-
----
 
 <!---
 
