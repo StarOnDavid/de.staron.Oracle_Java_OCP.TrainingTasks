@@ -6,6 +6,34 @@
 
 ---
 
+### Aufgaben Vorlage
+<table>
+  <tr>
+    <th>Aufgabenstellungen</th>
+    <th>Lösungen</th>
+  </tr>
+  <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200327_Kleine_Aufgabe_Enums> Kleine Aufgabe Enums </a> &#160;&#160;&#160;
+   	</td>
+   	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200327_Kleine_Aufgabe_Enums> Lösung </a>
+   	</td>
+  </tr>
+  <tr>
+  	<td></td>
+   	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200327_Kleine_Aufgabe_Enums> Lösung Dozent </a>
+   	</td>
+  </tr>
+  <tr><td>&#160;</td></tr>
+</table>
+
+&#160;
+&#160;
+
+---
+
 ### Aufgaben 26.03.2020
 <table>
   <tr>
