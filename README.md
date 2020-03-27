@@ -1,6 +1,6 @@
-## Übungsaufgaben aus meinem Java OCP Kurs.
+# Übungsaufgaben aus meinem Java OCP Kurs.
 
-Diese README.md Datei dient als Inhaltsverzeichniss.
+## Inhaltsverzeichnis dieses Repositories.
 
 &#160;
 &#160;
@@ -143,3 +143,4 @@ Diese README.md Datei dient als Inhaltsverzeichniss.
 &#160;
 
 --->		
+
