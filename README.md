@@ -15,7 +15,7 @@
   </tr>
   <tr>
   	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200327_Kleine_Aufgabe_Enums> Kleine Aufgabe Enums </a> &#160;&#160;&#160;
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200327%20Kleine%20Aufgabe%20Enums.md> Kleine Aufgabe Enums </a> &#160;&#160;&#160;
    	</td>
    	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200327_Kleine_Aufgabe_Enums> Lösung </a>
