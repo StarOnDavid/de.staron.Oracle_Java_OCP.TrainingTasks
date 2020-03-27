@@ -9,8 +9,8 @@
 ### Aufgaben Vorlage
 <table>
   <tr>
-    <th>Aufgabenstellungen</th>
-    <th>Lösungen</th>
+    <th width=400 align="left">Aufgabenstellungen</th>
+    <th width=400 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
@@ -37,13 +37,12 @@
 ### Aufgaben 26.03.2020
 <table>
   <tr>
-    <th>Aufgabenstellungen</th>
-    <th>Lösungen</th>
+    <th width=400 align="left">Aufgabenstellungen</th>
+    <th width=400 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200326%20Interfaces%20-%20String%20Transform.md> Interfaces - String Transform </a>
-  		&#160; &#160; &#160; &#160; &#160;
   	</td>
   	  <td>
   	  	<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200326_Interfaces_StringTransformation> Lösung 1 (mit Enum) </a>
@@ -81,8 +80,8 @@
 ### Aufgaben 25.03.2020
 <table>
   <tr>
-    <th>Aufgabenstellungen</th>
-    <th>Lösungen</th>
+    <th width=400 align="left">Aufgabenstellungen</th>
+    <th width=400 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
@@ -121,8 +120,8 @@
 ### Aufgaben Vorlage
 <table>
   <tr>
-    <th>Aufgabenstellung</th>
-    <th>Lösungen</th>
+    <th width=400 align="left">Aufgabenstellungen</th>
+    <th width=400 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
