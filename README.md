@@ -61,7 +61,7 @@
   	  <a href = > Lösung Dozent </a>
   	</td>
   </tr>
-  <tr><td>&#160;</td></tr>
+  <tr><td>&#160;</td><td>&#160;</td></tr>
   <tr>
   	<td>
   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200326%20Enums%20-%20Hunderassen.md> <em>Optional</em> Enums - Hunderassen </a>
@@ -97,7 +97,7 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200325_InterfaceComperableComperator_OS> Lösung Dozent </a>
    	</td>
   </tr>
-  <tr><td>&#160;</td></tr>
+  <tr><td>&#160;</td><td>&#160;</td></tr>
   <tr>
   	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200325%20Interfaces%20-%20Comparable%20-%20Comparator%20-%20Person.md> Interfaces - Comparable/Comparator - Person </a> &#160;&#160;&#160;
@@ -137,7 +137,7 @@
    		<a href = > Lösung Dozent </a>
    	</td>
   </tr>
-  <tr><td>&#160;</td></tr>
+  <tr><td>&#160;</td><td>&#160;</td></tr>
 </table>
 
 &#160;
