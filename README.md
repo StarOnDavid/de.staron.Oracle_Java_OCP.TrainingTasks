@@ -1,9 +1,9 @@
 # Übungsaufgaben aus meinem Java OCP Kurs.
 
-## Inhaltsverzeichnis dieses Repositories.
+&#160;
+&#160;
 
-&#160;
-&#160;
+## Inhaltsverzeichnis dieses Repositories.
 
 ---
 
