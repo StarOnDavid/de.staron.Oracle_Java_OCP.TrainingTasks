@@ -30,6 +30,10 @@
 </table>
 
 &#160;
+
+ - Exceptions - IntMatrix -> noch unbearbeitet: &#160; "Optional. Erstellen Sie eine GUI-Anwendung ... " 
+ 
+&#160;
 &#160;
 
 ---
