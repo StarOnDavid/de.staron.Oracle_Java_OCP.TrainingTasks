@@ -18,7 +18,7 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200331_Exceptions_IntMatrix.md> Exceptions - IntMatrix </a>
    	</td>
    	<td>
-   		<a href = > Lösung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200331_Exceptions_IntMatrix> Lösung </a>
    	</td>
   </tr>
   <tr>
@@ -27,7 +27,6 @@
    		<a href = > Lösung Dozent </a>
    	</td>
   </tr>
-  <tr><td>&#160;</td><td>&#160;</td></tr>
 </table>
 
 &#160;
@@ -55,7 +54,6 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200327_Kleine_Aufgabe_Enums> Lösung Dozent </a>
    	</td>
   </tr>
-  <tr><td>&#160;</td><td>&#160;</td></tr>
 </table>
 
 &#160;
