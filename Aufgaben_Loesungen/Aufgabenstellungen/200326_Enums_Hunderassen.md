@@ -1,4 +1,4 @@
-#Aufgabe 'Enums - Hunderassen'
+# Aufgabe 'Enums - Hunderassen'
 
 - Btte definieren Sie eine Enum-Klasse 'Hunderasse' mit drei Konstanten
    
