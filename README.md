@@ -15,6 +15,21 @@
   </tr>
   <tr>
   	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200401_Nested_Gebaeude.md> Innere Klassen - Gebäude </a>
+   	</td>
+   	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200401_InnerClass_Building> Lösung </a>
+   	</td>
+  </tr>
+  <tr>
+  	<td></td>
+   	<td>
+   		<a href = > Lösung Dozent (fehlt noch)</a>
+   	</td>
+  </tr>
+  <tr><td>&#160;</td><td>&#160;</td></tr>
+  <tr>
+  	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200401_Nested_Auto.md> Kleine Aufgabe - Innere Klassen - Autos </a>
    	</td>
    	<td>
@@ -24,10 +39,9 @@
   <tr>
   	<td></td>
    	<td>
-   		<a href = > Lösung Dozent </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200401_Innere_Klassen_Auto> Lösung Dozent </a>
    	</td>
   </tr>
-  <tr><td>&#160;</td><td>&#160;</td></tr>
 </table>
 
 &#160;
@@ -47,12 +61,6 @@
    	</td>
    	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200331_Exceptions_IntMatrix> Lösung </a>
-   	</td>
-  </tr>
-  <tr>
-  	<td></td>
-   	<td>
-   		<a href = > Lösung Dozent </a>
    	</td>
   </tr>
 </table>
@@ -83,7 +91,7 @@
   <tr>
   	<td></td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200327_Kleine_Aufgabe_Enums> Lösung Dozent </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200327_Kleine_Aufgabe_Enums> Lösung Dozent </a>
    	</td>
   </tr>
 </table>
