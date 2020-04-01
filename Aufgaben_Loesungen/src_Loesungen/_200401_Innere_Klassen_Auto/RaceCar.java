@@ -32,10 +32,11 @@ public class RaceCar {
 	
 	private String brand;
 	private Driver driver;
-	private Engine engine = new Engine("Cobra-Jet-7-Liter-V8");
+	private Engine engine;
 	
 	public RaceCar(String brand) {
 		this.brand = brand;
+		this.engine = new Engine("Cobra-Jet-7-Liter-V8");
 	}
 	
 	public void setDriver(Driver driver) {
