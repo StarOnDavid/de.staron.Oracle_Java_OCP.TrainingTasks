@@ -7,6 +7,34 @@
 
 ---
 
+### Aufgaben 01.04.2020
+<table>
+  <tr>
+    <th width=400 align="left">Aufgabenstellungen</th>
+    <th width=400 align="left">Lösungen</th>
+  </tr>
+  <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200401_Nested_Auto.md> Kleine Aufgabe - Innere Klassen - Autos </a>
+   	</td>
+   	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200401_Innere_Klassen_Auto> Lösung </a>
+   	</td>
+  </tr>
+  <tr>
+  	<td></td>
+   	<td>
+   		<a href = > Lösung Dozent </a>
+   	</td>
+  </tr>
+  <tr><td>&#160;</td><td>&#160;</td></tr>
+</table>
+
+&#160;
+&#160;
+
+---
+
 ### Aufgaben 31.03.2020
 <table>
   <tr>
