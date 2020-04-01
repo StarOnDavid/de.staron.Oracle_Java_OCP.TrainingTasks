@@ -26,35 +26,29 @@ public class IntMatrix {
 	}
 
 	public int get(int line, int column) {
-		if (line >= matrix.length || column >= matrix[0].length) {
+		if (line >= getLines() || column >= getColumns()) {
 			throw new IntMatrixIndexOutOfBoundsException(line, column);
 		}
 		return matrix[line][column];
 	}
 	
 	public void set(int line, int column, int value) {
-		if (line >= matrix.length || column >= matrix[0].length) {
+		if (line >= getLines() || column >= getColumns()) {
 			throw new IntMatrixIndexOutOfBoundsException(line, column);
 		}
 		matrix[line][column] = value;
 	}
 	
-	public boolean equals(IntMatrix m) {
-		if (!this.sameSize(m)) {
-			return false;
-		}
-		for(int i = 0; i < matrix.length; i++) {
-			for(int j = 0; j < matrix[i].length; j++) {
-				if (this.matrix[i][j] != m.matrix[i][j]) {
-					return false;
-				}
-			}	
-		}
-		return true;
+	public int getLines() {
+		return matrix.length;
+	}
+	
+	public int getColumns() {
+		return matrix[0].length;
 	}
 	
 	public boolean sameSize(IntMatrix m) {
-		if (this.matrix.length == m.matrix.length && this.matrix[0].length == m.matrix[0].length) {
+		if (this.getLines() == m.getLines() && this.getColumns() == m.getColumns()) {
 			return true;
 		} else {
 			return false;
@@ -62,10 +56,10 @@ public class IntMatrix {
 	}
 	
 	public IntMatrix transposed() {
-		IntMatrix m = new IntMatrix(this.matrix[0].length, this.matrix.length);
-		for(int i = 0; i < matrix.length; i++) {
+		IntMatrix m = new IntMatrix(this.getColumns(), this.getLines());
+		for(int i = 0; i < getLines(); i++) {
 			for(int j = 0; j < matrix[i].length; j++) {
-				m.set(j, i, matrix[i][j]);
+				m.set(j, i, this.get(i, j));
 			}
 		}
 		return m;
@@ -75,10 +69,10 @@ public class IntMatrix {
 		if(!this.sameSize(m)) {
 			throw new IntMatrixNotAddOrSubableException();
 		}
-		IntMatrix add = new IntMatrix(this.matrix.length, this.matrix[0].length);
-		for(int i = 0; i < this.matrix.length; i++) {
-			for(int j = 0; j < this.matrix[0].length; j++) {
-				add.matrix[i][j] = this.matrix[i][j] + m.matrix[i][j];
+		IntMatrix add = new IntMatrix(this.getLines(), this.getColumns());
+		for(int i = 0; i < this.getLines(); i++) {
+			for(int j = 0; j < this.getColumns(); j++) {
+				add.set(i,j, this.get(i,j) + m.get(i,j));
 			}
 		}
 		return add;
@@ -88,9 +82,9 @@ public class IntMatrix {
 		if(!this.sameSize(m)) {
 			throw new IntMatrixNotAddOrSubableException();
 		}
-		IntMatrix add = new IntMatrix(this.matrix.length, this.matrix[0].length);
-		for(int i = 0; i < this.matrix.length; i++) {
-			for(int j = 0; j < this.matrix[0].length; j++) {
+		IntMatrix add = new IntMatrix(this.getLines(), this.getColumns());
+		for(int i = 0; i < this.getLines(); i++) {
+			for(int j = 0; j < this.getColumns(); j++) {
 				add.matrix[i][j] = this.matrix[i][j] - m.matrix[i][j];
 			}
 		}
@@ -98,15 +92,15 @@ public class IntMatrix {
 	}
 	
 	public IntMatrix multiply(IntMatrix m) {
-		if(this.matrix.length != m.matrix[0].length) {
+		if(this.getLines() != m.getColumns()) {
 			throw new IntMatrixNotMultipliableException();
 		}
 		int prodSum = 0;
 		
-		IntMatrix mult = new IntMatrix(m.matrix[0].length, this.matrix.length);
-		for(int i = 0; i < mult.matrix.length; i++) {		
-			for (int j = 0; j < mult.matrix[0].length; j++) {
-				for(int k = 0; k < this.matrix[0].length; k++) {
+		IntMatrix mult = new IntMatrix(m.getColumns(), this.getLines());
+		for(int i = 0; i < mult.getLines(); i++) {		
+			for (int j = 0; j < mult.getColumns(); j++) {
+				for(int k = 0; k < this.getColumns(); k++) {
 					prodSum = prodSum + this.matrix[j][k]*m.matrix[k][i];
 				}
 				mult.matrix[i][j] = prodSum;
@@ -117,7 +111,27 @@ public class IntMatrix {
 		return mult;
 	}
 	
-
+	@Override
+	public boolean equals(Object obj) {
+		if(this == obj)
+			return true;
+		if(obj == null)
+			return false;
+		if(this.getClass() != obj.getClass())
+			return false;
+		IntMatrix m = (IntMatrix) obj;
+		if(!this.sameSize(m))
+			return false;
+		for(int i = 0; i < getLines(); i++) {
+			for(int j = 0; j < matrix[i].length; j++) {
+				if (this.matrix[i][j] != m.matrix[i][j]) {
+					return false;
+				}
+			}	
+		}
+		return true;
+	}
+	
 	@Override
 	public String toString() {
 		StringBuilder out = new StringBuilder();
@@ -129,14 +143,16 @@ public class IntMatrix {
 				}
 			}
 		}
-		for(int i = 0; i < matrix.length; i++) {
+		
+		String format = "%"+(maxLength + 1)+"d";
+		for(int i = 0; i < getLines(); i++) {
 			for(int j = 0; j < matrix[i].length; j++) {
-				out.append(String.format("%"+(maxLength + 1)+"d", matrix[i][j]));
+				out.append(String.format(format, matrix[i][j]));
 				if (j < matrix[i].length - 1) {
 					out.append(",");
 				}
 			}
-			if (i < matrix.length - 1) {
+			if (i < getLines() - 1) {
 				out.append("\n");
 			}
 		}
@@ -145,7 +161,7 @@ public class IntMatrix {
 	}
 	
 	private void initValuesWith(int initValue) {
-		for(int i = 0; i < matrix.length; i++) {
+		for(int i = 0; i < getLines(); i++) {
 			for(int j = 0; j < matrix[i].length; j++) {
 				matrix[i][j] = initValue;
 			}
@@ -157,32 +173,31 @@ public class IntMatrix {
 		if (maxRandom < 0) {
 			addOne = -1;
 		}
-		for(int i = 0; i < matrix.length; i++) {
+		for(int i = 0; i < getLines(); i++) {
 			for(int j = 0; j < matrix[i].length; j++) {
 				matrix[i][j] = (int)(Math.random() * (maxRandom + addOne));
 			}
 		}	
 	}
 
-	static class IntMatrixSizeException extends RuntimeException {
-		private static final long serialVersionUID = -2795992773190380045L;
+	
 
+	@SuppressWarnings("serial")
+	public static class IntMatrixSizeException extends RuntimeException {
 		IntMatrixSizeException() {
 			super("IntMatrix() lines/colums must be greater than Zero!");
 		}
 	}
 	
-	static class IntMatrixRandomInitException extends RuntimeException {
-		private static final long serialVersionUID = -8893475541371908828L;
-
+	@SuppressWarnings("serial")
+	public static class IntMatrixRandomInitException extends RuntimeException {
 		IntMatrixRandomInitException() {
 			super("Can't init randoms between Zero and Zero!");
 		}
 	}
 	
-	static class IntMatrixIndexOutOfBoundsException extends IndexOutOfBoundsException {
-		private static final long serialVersionUID = 7097032814541766248L;
-		
+	@SuppressWarnings("serial")
+	public static class IntMatrixIndexOutOfBoundsException extends IndexOutOfBoundsException {
 		IntMatrixIndexOutOfBoundsException() {
 			super("Index out of bounds!");
 		}
@@ -191,17 +206,15 @@ public class IntMatrix {
 		}
 	}
 	
-	static class IntMatrixNotAddOrSubableException extends RuntimeException {
-		private static final long serialVersionUID = -2665797842923679141L;
-
+	@SuppressWarnings("serial")
+	public static class IntMatrixNotAddOrSubableException extends RuntimeException {
 		IntMatrixNotAddOrSubableException() {
 			super("The condition for 'addition' or 'substraction* is: MatrixA 'size' equals MatrixB 'size'!");
 		}
 	}
 	
-	static class IntMatrixNotMultipliableException extends RuntimeException {
-		private static final long serialVersionUID = -7741926619626455083L;
-
+	@SuppressWarnings("serial")
+	public static class IntMatrixNotMultipliableException extends RuntimeException {
 		IntMatrixNotMultipliableException() {
 			super("The condition for 'multiplication' is: MatrixA 'lines' equals MatrixB 'columns'!");
 		}
