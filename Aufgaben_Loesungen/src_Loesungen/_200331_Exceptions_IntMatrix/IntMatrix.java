@@ -27,14 +27,14 @@ public class IntMatrix {
 
 	public int get(int line, int column) {
 		if (line >= getLines() || column >= getColumns()) {
-			throw new IntMatrixIndexOutOfBoundsException(line, column);
+			throw new IntMatrixIndexOutOfBoundsException(line, column, getLines()-1, getColumns()-1);
 		}
 		return matrix[line][column];
 	}
 	
 	public void set(int line, int column, int value) {
 		if (line >= getLines() || column >= getColumns()) {
-			throw new IntMatrixIndexOutOfBoundsException(line, column);
+			throw new IntMatrixIndexOutOfBoundsException(line, column, getLines()-1, getColumns()-1);
 		}
 		matrix[line][column] = value;
 	}
@@ -201,8 +201,9 @@ public class IntMatrix {
 		IntMatrixIndexOutOfBoundsException() {
 			super("Index out of bounds!");
 		}
-		IntMatrixIndexOutOfBoundsException(int line, int column) {
-			super("Index 'line' " + line + " and/or 'colum' " + column + " out of bounds!");
+		IntMatrixIndexOutOfBoundsException(int line, int column, int maxLinesIdx, int maxColumnsIdx) {
+			super("Index 'line' " + line + " and/or 'colum' " + column + " out of bounds! Max Index of this IntMatrix is " + 
+					maxLinesIdx + " for lines / " + maxColumnsIdx + " for columns!");
 		}
 	}
 	

@@ -67,6 +67,11 @@ public class IntMatrix_run {
 		 * FRAGE:
 		 * Bei der ArrayOutOfBoundsException wird die 'length' des Array angegeben vom Array dessen Aufruf die Exception auslöst.
 		 * Wie kommt diese Exception Klasse an die länge des Array?
+		 * 
+		 * Antwort: 
+		 * der Index-Operator ist eine Art 'Funktion', die den Code beinhaltet, in dem der Operand (das Array) überprüft wird: 
+		 * die Länge des Arrays wird ermittelt und mit dem zweiten Operanden (index) verglichen. Falls index zu gross ist, wirft der 
+		 * Index-Operator die ArrayIndexOutOfBoundExc. Somit muss die Exception-Klasse kein Zugriff auf das Array haben.
 		 */
 		
 		try {
