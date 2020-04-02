@@ -1,11 +1,17 @@
 package _200401_InnerClass_Building;
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class Building {
 	public class Floor {
 		public class Room {
+
+			@Override
+			public String toString() {
+				return "Room " + Floor.this.rooms.indexOf(this) + "." + Building.this.floors.indexOf(Floor.this) + " " +
+						"In the building with " + Building.this.address.toString();
+			}
+			
 			
 		} // end of Room
 		
@@ -27,6 +33,14 @@ public class Building {
 		public Room getRoom(int roomNum) {
 			return rooms.get(roomNum);
 		}
+
+		@Override
+		public String toString() {
+			return "Floor " + Building.this.floors.indexOf(this) + " has " + this.rooms.size() + " rooms. " +
+					"In the building with " + Building.this.address.toString();
+		}
+		
+		
 		
 	} // end of Floor
 	
@@ -82,6 +96,10 @@ public class Building {
 	}
 	
 	public Building (String street, String num, int numFloors, int roomsPerFloor) {
+		if(numFloors<1)
+			throw new IllegalArgumentException("The number of floors in a Building must be greater than 0. Your input: " + numFloors);
+		if(roomsPerFloor<1)
+			throw new IllegalArgumentException("The number of rooms per floor in a Building must be greater than 0. Your input: " + roomsPerFloor);
 		do {
 			floors.add(new Floor(roomsPerFloor));
 			numFloors--;
