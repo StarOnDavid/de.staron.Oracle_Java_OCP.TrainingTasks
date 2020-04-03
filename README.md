@@ -7,6 +7,35 @@
 
 ---
 
+### Aufgaben 03.04.2020
+
+<table>
+  <tr>
+    <th width=400 align="left">Functional Interfaces - Mini Tasks inkl. Lösung</th>
+  </tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/src_Loesungen/_200403_MiniTask/MiniTask_Consumer.java> Consumer</a>
+   	</td>
+  </tr>
+  <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/src_Loesungen/_200403_MiniTask/MiniTask_Supplier.java> Supplier</a>
+   	</td>
+  </tr>
+  <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/src_Loesungen/_200403_MiniTask/MiniTask_UnaryOperator.java> UnaryOperator</a>
+   	</td>
+   	<td>
+   	</td>
+  </tr>
+</table>
+
+&#160;
+&#160;
+
+---
+
 ### Aufgaben 02.04.2020
 <table>
   <tr>
@@ -24,7 +53,7 @@
   <tr>
   	<td></td>
    	<td>
-   		<a href = > Lösung Dozent (fehlt noch) </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200402_Nestet_Predicate_Person> Lösung Dozent </a>
    	</td>
   </tr>
   <tr><td>&#160;</td><td>&#160;</td></tr>
