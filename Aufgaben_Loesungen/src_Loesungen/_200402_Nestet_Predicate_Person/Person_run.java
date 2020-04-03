@@ -12,11 +12,7 @@ class PredicateAfter1890 implements Predicate<Person>  {
 
 	@Override
 	public boolean test(Person p) {
-		if(p.getBirthday().isAfter(LocalDate.parse("1890-01-11"))) {
-			return true;
-		} else {
-			return false;
-		}
+		return p.getBirthday().isAfter(LocalDate.parse("1890-01-11"));
 	}
 }
 
@@ -25,11 +21,7 @@ public class Person_run {
 
 		@Override
 		public boolean test(Person p) {
-			if(p.getLastName().contains("a") || p.getLastName().contains("A")) {
-				return true;
-			} else {
-				return false;
-			}
+			return p.getLastName().contains("a") || p.getLastName().contains("A");
 		}
 	}
 
@@ -56,11 +48,7 @@ public class Person_run {
 
 			@Override
 			public boolean test(Person p) {
-				if(p.getLastName().length() > 4) {
-					return true;
-				} else {
-					return false;
-				}
+				return p.getLastName().length() > 4;
 			}
 		}
 		
@@ -72,19 +60,15 @@ public class Person_run {
 
 			@Override
 			public boolean test(Person p) {
-				if(p.getBirthday().isAfter(LocalDate.parse("1890-01-11")) && 
-						(p.getLastName().contains("a") || p.getLastName().contains("A"))) {
-					return true;
-				} else {
-					return false;
-				}
+				return p.getBirthday().isAfter(LocalDate.parse("1890-01-11")) && 
+						(p.getLastName().contains("a") || p.getLastName().contains("A"));
 			}
 			
 		};
 		l1 = filter(persons, after1890AndLastWithA);
 		System.out.println("\nBorn after 1890-01-01 and lastname with 'a':" + l1);
 		
-		Predicate<Person> longerThan4AndAfter1890 = new PredicateLastLongerThan4().and(after1890);
+		Predicate<Person> longerThan4AndAfter1890 = longerThan4.and(after1890);
 		l1 = filter(persons, longerThan4AndAfter1890);
 		System.out.println("\nLastname longer than 4 and born after 1890-01-01: " + l1);
 		
