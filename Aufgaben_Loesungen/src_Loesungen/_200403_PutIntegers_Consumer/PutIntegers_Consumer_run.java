@@ -19,7 +19,7 @@ public class PutIntegers_Consumer_run {
 
 		
 		putIntegers( System.out::print ); 	// Zeile C, optionale Aufgabe, 
-													// die Zeile C kann entfernt werden
+											// die Zeile C kann entfernt werden
 	}
 	
 	public static void putIntegers(Consumer<Integer> con) {
