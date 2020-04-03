@@ -1,7 +1,5 @@
 package _200403_StringTransform_Function;
 
-import java.util.function.UnaryOperator;
-
 public class StringTransform_Function_run {
 
 	public static void main(String[] args) {
