@@ -1,4 +1,4 @@
-package _200403_MiniTask_Supplier;
+package _200403_MiniTasks;
 
 import java.util.ArrayList;
 import java.util.List;
