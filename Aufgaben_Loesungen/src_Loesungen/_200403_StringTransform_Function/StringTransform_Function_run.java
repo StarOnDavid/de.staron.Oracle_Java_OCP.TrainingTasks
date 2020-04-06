@@ -20,11 +20,11 @@ public class StringTransform_Function_run {
 	    
 	    StringTransform t2 = new StringTransform()
 	            .addTransformation( x -> x.substring(7) )
-	            .addTransformation( x -> x.concat(" ist") )
-	            .addTransformation( x -> x.concat(" mein Name.") );
+	            .addTransformation( x -> "Mein Name ist ".concat(x) )
+	            .addTransformation( x -> x.concat("!") );
 	    
 	    // Transformationen durchführen:
 	    String s2 = t2.process("Ulrich Hase");
-	    System.out.println(s2); // Hase ist mein Name.
+	    System.out.println(s2); // Mein Name ist Hase!
 	}
 }
