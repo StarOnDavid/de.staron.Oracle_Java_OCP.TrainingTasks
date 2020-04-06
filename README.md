@@ -67,6 +67,7 @@
   <tr>
     <th width=400 align="left">Functional Interfaces - Mini Tasks inkl. Lösung</th>
   </tr>
+  <tr>
   	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/src_Loesungen/_200403_MiniTask/MiniTask_Consumer.java> Consumer</a>
    	</td>
@@ -79,8 +80,6 @@
   <tr>
   	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/src_Loesungen/_200403_MiniTask/MiniTask_UnaryOperator.java> UnaryOperator</a>
-   	</td>
-   	<td>
    	</td>
   </tr>
 </table>
