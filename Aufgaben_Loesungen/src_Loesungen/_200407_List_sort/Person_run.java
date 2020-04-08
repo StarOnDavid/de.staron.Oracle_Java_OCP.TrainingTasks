@@ -39,6 +39,7 @@ public class Person_run {
 												
 		System.out.println("\nInhalt Array sortiert (DESC): " + Arrays.toString(arrPers));
 		System.out.println("Inhalt  List sortiert (DESC): " + listPers);
+
 	}
 
 }

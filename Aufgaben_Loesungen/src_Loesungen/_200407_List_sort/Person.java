@@ -2,6 +2,7 @@ package _200407_List_sort;
 
 public class Person implements Comparable<Person>{
 	String firstName, lastName;
+	int alter;
 	
 	public Person() {}
 
