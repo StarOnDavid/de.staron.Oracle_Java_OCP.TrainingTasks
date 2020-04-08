@@ -7,6 +7,48 @@
 
 ---
 
+### Aufgaben Vorlage
+<table>
+  <tr>
+    <th width=400 align="left">Aufgabenstellungen</th>
+    <th width=400 align="left">Lösungen</th>
+  </tr>
+  <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200408_Set_FileTypes.md> Set - FileTypes </a>
+   	</td>
+   	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200408_Set_FileTypes> Lösung </a>
+   	</td>
+  </tr>
+  <tr>
+  	<td></td>
+   	<td>
+   		<a href = > Lösung Dozent (fehlt noch) </a>
+   	</td>
+  </tr>
+  <tr><td>&#160;</td><td>&#160;</td></tr>
+  <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200408_Set_TextStatistics.md> Set - TextStatistics </a>
+   	</td>
+   	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200408_Set_TextStatistics> Lösung </a>
+   	</td>
+  </tr>
+  <tr>
+  	<td></td>
+   	<td>
+   		<a href = > Lösung Dozent (fehlt noch) </a>
+   	</td>
+  </tr>
+</table>
+
+&#160;
+&#160;
+
+---
+
 ### Aufgaben 07.04.2020
 <table>
   <tr>
@@ -21,12 +63,6 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200407_List_Benchmark> Lösung </a>
    	</td>
   </tr>
-  <tr>
-  	<td></td>
-   	<td>
-   		<a href = > Lösung Dozent (fehlt noch) </a>
-   	</td>
-  </tr>
   <tr><td>&#160;</td><td>&#160;</td></tr>
   <tr>
   	<td>
@@ -36,12 +72,6 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200407_List_Iterable> Lösung </a>
    	</td>
   </tr>
-  <tr>
-  	<td></td>
-   	<td>
-   		<a href = > Lösung Dozent (fehlt noch) </a>
-   	</td>
-  </tr>
   <tr><td>&#160;</td><td>&#160;</td></tr>
   <tr>
   	<td>
@@ -49,12 +79,6 @@
    	</td>
    	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200407_List_sort> Lösung </a>
-   	</td>
-  </tr>
-  <tr>
-  	<td></td>
-   	<td>
-   		<a href = > Lösung Dozent (fehlt noch) </a>
    	</td>
   </tr>
 </table>
@@ -81,7 +105,7 @@
   <tr>
   	<td></td>
    	<td>
-   		<a href = > Lösung Dozent (fehlt noch) </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200406_Generics_Garage> Lösung Dozent </a>
    	</td>
   </tr>
 </table>
