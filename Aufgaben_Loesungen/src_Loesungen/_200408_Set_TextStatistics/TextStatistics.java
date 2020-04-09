@@ -4,7 +4,7 @@ import java.util.Collection;
 import java.util.HashSet;
 
 public class TextStatistics {
-	String text;
+	private String text;
 
 	public static TextStatistics of(String text) {
 		TextStatistics obj = new TextStatistics();
