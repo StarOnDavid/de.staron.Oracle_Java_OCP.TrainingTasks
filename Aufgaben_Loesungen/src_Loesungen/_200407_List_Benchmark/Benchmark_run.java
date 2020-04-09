@@ -31,10 +31,10 @@ public class Benchmark_run {
 		System.out.println("Test 'addLast' with 'LinkedList<Integer>' and N = " + N + " needs: " +
 						Benchmark.testAddLast(linkList, N) + "ms");
 		
-		System.out.println("\nTest 'get' element M = " + M + " from 'ArrayList<Integer>' needs: " +
-				Benchmark.testGetM(arrList, M) + "ms");
+		System.out.println("\nTest 'get' element M = " + M + " from 'ArrayList<Integer>' needs: " + 
+						Benchmark.testGetM(arrList, M) + "ms");
 		System.out.println("Test 'get' element M = " + M + " from 'LinkedList<Integer>' needs: " +
-				Benchmark.testGetM(linkList, M) + "ms");
+						Benchmark.testGetM(linkList, M) + "ms");
 		
 		System.out.println("\n--- Benchmark Finnished ---");
 	}
