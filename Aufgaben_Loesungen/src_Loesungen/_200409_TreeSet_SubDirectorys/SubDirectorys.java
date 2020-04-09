@@ -1,15 +1,15 @@
-package _200409_TreeSet_Directorys;
+package _200409_TreeSet_SubDirectorys;
 
 import java.io.File;
 import java.util.HashSet;
 import java.util.SortedSet;
 import java.util.TreeSet;
 
-public class Directorys {
+public class SubDirectorys {
 
 	private String dirAdress;
 	
-	public Directorys(String dirAdress) {
+	public SubDirectorys(String dirAdress) {
 		this.dirAdress = dirAdress;
 	}
 	
@@ -37,7 +37,7 @@ public class Directorys {
 	
 	
 	public static void main(String[] args) {
-		Directorys dir = new Directorys("C:\\Users\\CC-Student\\source");
+		SubDirectorys dir = new SubDirectorys("C:\\Users\\CC-Student\\source");
 		TreeSet<String> dirSet = dir.getSubDirs();
 		System.out.println("Es wurden " + dirSet.size() + " Ordner gefunden.\n");
 		
