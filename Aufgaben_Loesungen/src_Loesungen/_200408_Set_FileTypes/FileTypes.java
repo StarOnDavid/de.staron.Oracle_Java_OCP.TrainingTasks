@@ -5,7 +5,7 @@ import java.util.Collection;
 import java.util.HashSet;
 
 public class FileTypes {
-	String dirAdress;
+	private String dirAdress;
 	
 	public FileTypes(String dirAdress) {
 		this.dirAdress = dirAdress;
@@ -14,14 +14,17 @@ public class FileTypes {
 	public HashSet<String> getFileTypes() {
 		HashSet<String> fileTypes = new HashSet<>();
 		File dir = new File(dirAdress);
-		String[] dirFiles = dir.list();
-		for(int i = 0; i < dirFiles.length; i++) {
-			if(dirFiles[i].contains(".")) {
-				int ptIdx = dirFiles[i].lastIndexOf(".");
-				fileTypes.add(dirFiles[i].substring(ptIdx + 1));
+		if(dir.isDirectory()) {
+			String[] dirFiles = dir.list();
+			for(int i = 0; i < dirFiles.length; i++) {
+				if(dirFiles[i].contains(".")) {
+					int ptIdx = dirFiles[i].lastIndexOf(".");
+					fileTypes.add(dirFiles[i].substring(ptIdx + 1));
+				}
 			}
+			return fileTypes;
 		}
-		return fileTypes;
+		return null;
 	}
 
 	// only for Testing: 
