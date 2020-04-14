@@ -1,4 +1,4 @@
-package _200414_PriorityQue;
+package _200414_PriorityQueue;
 
 import java.util.Collection;
 import java.util.PriorityQueue;
@@ -27,7 +27,7 @@ class Blume implements Comparable{
 	}
 }
 
-public class PriorityQue_Test {
+public class PriorityQueue_Test {
 
 	public static void main(String[] args) {
 		PriorityQueue<Blume> blumen = new PriorityQueue<>();
