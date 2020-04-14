@@ -18,7 +18,7 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200414_Deque_Mirror.md> Deque - Mirror </a>
    	</td>
    	<td>
-   		<a href = > Lösung (fehlt noch)</a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200414_Deque_Mirror> Lösung </a>
    	</td>
   </tr>
   <tr>
@@ -33,7 +33,7 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200414_Queue_Task.md> PriorityQueue </a>
    	</td>
    	<td>
-   		<a href = > Lösung (fehlt noch)</a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200414_PriorityQueue> Lösung </a>
    	</td>
   </tr>
   <tr>
