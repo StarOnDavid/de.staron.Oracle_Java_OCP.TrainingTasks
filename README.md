@@ -7,6 +7,81 @@
 
 ---
 
+### Aufgaben 14.04.2020
+<table>
+  <tr>
+    <th width=400 align="left">Aufgabenstellungen</th>
+    <th width=400 align="left">Lösungen</th>
+  </tr>
+  <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200414_Deque_Mirror.md> Deque - Mirror </a>
+   	</td>
+   	<td>
+   		<a href = > Lösung (fehlt noch)</a>
+   	</td>
+  </tr>
+  <tr>
+  	<td></td>
+   	<td>
+   		<a href = > Lösung Dozent (fehlt noch) </a>
+   	</td>
+  </tr>
+  <tr><td>&#160;</td><td>&#160;</td></tr>
+  <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200414_Queue_Task.md> PriorityQueue </a>
+   	</td>
+   	<td>
+   		<a href = > Lösung (fehlt noch)</a>
+   	</td>
+  </tr>
+  <tr>
+  	<td></td>
+   	<td>
+   		<a href = > Lösung Dozent (fehlt noch) </a>
+   	</td>
+  </tr>
+  <tr><td>&#160;</td><td>&#160;</td></tr>
+  <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200414_Deque_BrowserHistory.md> Optional: Browser History - Deque </a>
+   	</td>
+   	<td>
+   		<a href = > Lösung (fehlt noch)</a>
+   	</td>
+  </tr>
+  <tr>
+  	<td></td>
+   	<td>
+   		<a href = > Lösung Dozent (fehlt noch) </a>
+   	</td>
+  </tr>
+</table>
+
+&#160;
+&#160;
+
+<table>
+  <tr>
+    <th width=400 align="left">Mini-Task</th>
+    <th width=400 align="left">Lösung</th>
+  </tr>
+  <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200414_Deque_Palindrom.md> Palindrom - Deque </a>
+   	</td>
+   	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200414_PriorityQueue> Lösung </a>
+   	</td>
+  </tr>
+</table>
+
+&#160;
+&#160;
+
+---
+
 ### Aufgaben 09.04.2020
 <table>
   <tr>
