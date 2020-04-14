@@ -3,7 +3,7 @@ package _200414_PriorityQueue;
 import java.util.Collection;
 import java.util.PriorityQueue;
 
-class Blume implements Comparable{
+class Blume implements Comparable<Blume>{
 	private int preis;
 	
 	Blume(int preis){
@@ -15,8 +15,7 @@ class Blume implements Comparable{
 	}
 
 	@Override
-	public int compareTo(Object o) {
-		Blume b = (Blume) o;
+	public int compareTo(Blume b) {
 		if(this.preis > b.preis) {
 			return 1;
 		} else if (this.preis < b.preis) {
