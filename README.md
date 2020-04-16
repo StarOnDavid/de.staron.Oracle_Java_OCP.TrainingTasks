@@ -7,6 +7,48 @@
 
 ---
 
+### Aufgaben Vorlage
+<table>
+  <tr>
+    <th width=400 align="left">Aufgabenstellungen</th>
+    <th width=400 align="left">Lösungen</th>
+  </tr>
+  <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200416_Generics_Zoo.md> Generics - Zoo </a>
+   	</td>
+   	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200416_Generics_Zoo> Lösung </a>
+   	</td>
+  </tr>
+  <tr>
+  	<td></td>
+   	<td>
+   		<a href = > Lösung Dozent (fehlt noch) </a>
+   	</td>
+  </tr>
+  <tr><td>&#160;</td><td>&#160;</td></tr>
+  <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200416_Generics_Platzhalter.md> Generics - Platzhalter </a>
+   	</td>
+   	<td>
+   		<a href = > Lösung (fehlt noch)</a>
+   	</td>
+  </tr>
+  <tr>
+  	<td></td>
+   	<td>
+   		<a href = > Lösung Dozent (fehlt noch) </a>
+   	</td>
+  </tr>
+</table>
+
+&#160;
+&#160;
+
+---
+
 ### Aufgaben 15.04.2020
 <table>
   <tr>
@@ -24,7 +66,7 @@
   <tr>
   	<td></td>
    	<td>
-   		<a href = > Lösung Dozent (fehlt noch) </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200415_Map_FileType> Lösung Dozent </a>
    	</td>
   </tr>
   <tr><td>&#160;</td><td>&#160;</td></tr>
@@ -39,7 +81,7 @@
   <tr>
   	<td></td>
    	<td>
-   		<a href = > Lösung Dozent (fehlt noch) </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200415_Map_Besitzer_Fahrzeug> Lösung Dozent </a>
    	</td>
   </tr>
 </table>
