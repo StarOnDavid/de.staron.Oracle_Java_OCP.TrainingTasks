@@ -3,7 +3,7 @@ package _200416_Generics_Zoo;
 public class Zoo_run {
 	private static Zoo zoo = new Zoo();
 	private static Doctor<Monkey> docM = new Doctor<>("Monkey Master");
-	private static Doctor<Animal> docA = new Doctor<>("Anis Healer");
+	private static Doctor<Animals> docA = new Doctor<>("Anis Healer");
 	private static Doctor<Treatable> docT = new Doctor<>("Master of the Univers");
 	
 	public static void main(String[] args) {
@@ -42,7 +42,7 @@ public class Zoo_run {
 	}
 
 	private static void printZoo() {
-		for(Animal a : zoo.getAllAnimals()) 
+		for(Animals a : zoo.getAllAnimals()) 
 			System.out.println(a);
 		System.out.println();
 		System.out.println((docM));

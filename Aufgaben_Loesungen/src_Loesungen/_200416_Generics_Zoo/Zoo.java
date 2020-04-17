@@ -6,13 +6,13 @@ import java.util.List;
 
 public class Zoo {
 	
-	private List<Animal> anis = new ArrayList<>();
+	private List<Animals> anis = new ArrayList<>();
 	
-	public boolean addAnimal(Animal ani) {
+	public boolean addAnimal(Animals ani) {
 		return this.anis.add(ani);
 	}
 
-	public List<Animal> getAllAnimals() {
+	public List<Animals> getAllAnimals() {
 		return anis;
 	}
 }
