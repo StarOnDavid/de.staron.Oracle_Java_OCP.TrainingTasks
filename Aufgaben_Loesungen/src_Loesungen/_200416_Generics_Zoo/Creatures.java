@@ -31,7 +31,7 @@ class Humans extends Creatures {
 	}
 }
 
-class Doctor<T> extends Humans {
+class Doctor<T extends Treatable> extends Humans {
 
 	public Doctor(String name) {
 		super("Doc", name);
