@@ -4,7 +4,7 @@ import java.util.function.Supplier;
 
 class IntPositive {
 
-	private static <T extends RuntimeException> void checkAndThrow(boolean check, Supplier<T> s) throws T {	
+	private static <T extends Throwable> void checkAndThrow(boolean check, Supplier<T> s) throws T {	
 		if(!check) {
 			throw s.get();
 		}
