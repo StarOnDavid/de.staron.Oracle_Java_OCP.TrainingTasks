@@ -7,6 +7,23 @@
 
 ---
 
+### Selbststudium 21.04.2020
+<table>
+  <tr>
+    <th width=400 align="left">Test von Functionals</th>
+  </tr>
+  <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_SelbstStudium/Functional> Optional - Comperator - BiFunction </a>
+   	</td>
+  </tr>
+</table>
+
+&#160;
+&#160;
+
+---
+
 ### Aufgaben 20.04.2020
 <table>
   <tr>
@@ -24,7 +41,7 @@
   <tr>
   	<td></td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200420_BiFunction_MethodReference> Lösung Dozent (fehlt noch) </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200420_BiFunction_MethodReference> Lösung Dozent </a>
    	</td>
   </tr>
 </table>
