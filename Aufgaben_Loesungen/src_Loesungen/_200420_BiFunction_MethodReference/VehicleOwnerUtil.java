@@ -1,4 +1,4 @@
-package _200420_BiFunction_MethodReference_v1;
+package _200420_BiFunction_MethodReference;
 
 import java.util.ArrayList;
 import java.util.List;

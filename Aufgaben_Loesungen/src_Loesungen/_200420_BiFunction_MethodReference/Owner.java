@@ -1,4 +1,4 @@
-package _200420_BiFunction_MethodReference_v1;
+package _200420_BiFunction_MethodReference;
 
 public class Owner implements Comparable<Owner>{
 	private static int idCounter = 0;
