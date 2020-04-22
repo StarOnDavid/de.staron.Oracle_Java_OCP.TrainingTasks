@@ -7,7 +7,7 @@
 
 ---
 
-### Aufgaben 20.04.2020
+### Aufgaben 22.04.2020
 <table>
   <tr>
     <th width=400 align="left">Aufgabenstellung</th>
@@ -18,7 +18,7 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200422_Stream_bilden.md> Stream bilden </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200422_Stream_bilden> Lösung - Erweitert mit dynamischen Methoden-Aufruf (Reflection-API) </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200422_Stream_bilden> Lösung - Erweitert mit dynamischem Methoden-Aufruf (Reflection-API) </a>
    	</td>
   </tr>
   <tr>
