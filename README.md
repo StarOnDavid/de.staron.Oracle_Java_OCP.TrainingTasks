@@ -7,6 +7,47 @@
 
 ---
 
+### Aufgaben 23.04.2020
+<table>
+  <tr>
+    <th width=400 align="left">Aufgabenstellung</th>
+    <th width=400 align="left">Lösungen</th>
+  </tr>
+  <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200423_Stream_intermediate_operations.md> Stream - intermediate operations </a>
+   	</td>
+   	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200423_Stream_intermediate_operations> Lösung </a>
+   	</td>
+  </tr>
+  <tr>
+  	<td></td>
+   	<td>
+   		<a href = > Lösung Dozent (fehlt noch) </a>
+   	</td>
+  </tr>
+</table>
+
+&#160;
+&#160;
+
+<table>
+  <tr>
+    <th width=400 align="left"> Mini-Tasks </th>
+  </tr>
+  <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200423_MiniTask_StreamMethoden> Stream Methoden - filter() map() flatMap() </a>
+   	</td>
+  </tr>
+</table>
+
+&#160;
+&#160;
+
+---
+
 ### Aufgaben 22.04.2020
 <table>
   <tr>
@@ -19,12 +60,6 @@
    	</td>
    	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200422_Stream_bilden> Lösung - Erweitert mit dynamischem Methoden-Aufruf (Reflection-API) </a>
-   	</td>
-  </tr>
-  <tr>
-  	<td></td>
-   	<td>
-   		<a href = > Lösung Dozent (fehlt noch) </a>
    	</td>
   </tr>
 </table>
