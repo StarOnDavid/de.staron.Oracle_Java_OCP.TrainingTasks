@@ -7,7 +7,7 @@
 
 --- 
 
-### Aufgaben 23.04.2020
+### Aufgaben 24.04.2020
 <table>
   <tr>
     <th width=400 align="left">Aufgabenstellung</th>
@@ -18,7 +18,7 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200424_Stream_count_min_max.md> Stream - count/min/max </a>
    	</td>
    	<td>
-   		<a href = > Lösung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200424_Stream_countMinMax> Lösung </a>
    	</td>
   </tr>
   <tr>
@@ -33,7 +33,7 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200424_Stream_reduce_simple.md> Optional: Stream - reduce </a>
    	</td>
    	<td>
-   		<a href = > Lösung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200424_Stream_reduce> Lösung </a>
    	</td>
   </tr>
   <tr>
@@ -80,7 +80,7 @@
   <tr>
   	<td></td>
    	<td>
-   		<a href = > Lösung Dozent (fehlt noch) </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200423_Stream_ntermediate_operations> Lösung Dozent </a>
    	</td>
   </tr>
 </table>
@@ -116,6 +116,12 @@
    	</td>
    	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200422_Stream_bilden> Lösung - Erweitert mit dynamischem Methoden-Aufruf (Reflection-API) </a>
+   	</td>
+  </tr>
+  <tr>
+  	<td></td>
+   	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200422_Stream_bilden> Lösung Dozent </a>
    	</td>
   </tr>
 </table>
