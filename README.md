@@ -94,7 +94,7 @@
   </tr>
   <tr>
   	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200423_MiniTask_StreamMethoden> Stream Methoden - filter() map() flatMap() </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200423_MiniTask_StreamMethoden> Stream Methoden - filter / map / flatMap </a>
    	</td>
   </tr>
 </table>
