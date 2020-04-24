@@ -50,11 +50,11 @@ public class ImOps {
 		return str;
 	}
 	
-	protected static Stream<Integer> a4Pipe(int numOf) {
-		Stream<Integer> str = Stream.generate(() -> (int)(Math.random()*21))
-									.map(x -> ((int)(Math.random()*2.1)) == 1 ? x *= -(1) : x )
+	protected static Stream<Double> a4Pipe(int numOf) {
+		return Stream.generate(() -> (-20) + (int)(Math.random() * ((20 - (-20)) + 1)))
+									.filter(x -> x > -10 || x < -15)
+									.map(x -> x.doubleValue())
 									.limit(numOf);
-		return str;
 	}
 	
 	protected static Stream<Tier> a5Pipe() {
@@ -64,8 +64,7 @@ public class ImOps {
 				new Tier("Tom"),
 				new Tier("Jerry"));
 		
-		Stream<Tier> str = tiere.stream().distinct();
-		return str;
+		return tiere.stream().distinct();
 	}
 	
 	protected static Stream<String> a6Pipe() {
@@ -74,7 +73,7 @@ public class ImOps {
 		List<String> mailsQM = Arrays.asList("peter@mycompany.com", "jerry@mycompany.com");
 		
 		return Stream.<List<String>>of( mailsErsthelfer, mailsIT, mailsQM ) // Stream<Integer[]>
-						.flatMap( l -> l.stream() )
+						.flatMap( List::stream )
 						.map(s -> s.substring(0, s.indexOf("@")))
 						.distinct();	
 	}
