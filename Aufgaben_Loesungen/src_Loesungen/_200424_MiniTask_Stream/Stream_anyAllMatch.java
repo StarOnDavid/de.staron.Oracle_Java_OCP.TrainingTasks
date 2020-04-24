@@ -15,6 +15,14 @@ public class Stream_anyAllMatch {
 				"Samstag",
 				"Sonntag"
 		};
+		/*
+		 * Überprüfen sie bitte mit einer Pipeline
+		 * 
+		 * - ob es im Array 'woche' Strings gibt, die länger als 8 sind
+		 * - ob alle Strings ein kleines 't' enthalten
+		 * - ob kein String mit 'A' startet
+		 * 
+		 */
 		
 		Stream<String> laengerA = Stream.of(woche)
 				.filter(x -> x.length() > 8);
