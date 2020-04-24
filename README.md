@@ -5,6 +5,62 @@
 
 ## Inhaltsverzeichnis dieses Repositories.
 
+--- 
+
+### Aufgaben 23.04.2020
+<table>
+  <tr>
+    <th width=400 align="left">Aufgabenstellung</th>
+    <th width=400 align="left">Lösungen</th>
+  </tr>
+  <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200424_Stream_count_min_max.md> Stream - count/min/max </a>
+   	</td>
+   	<td>
+   		<a href = > Lösung </a>
+   	</td>
+  </tr>
+  <tr>
+  	<td></td>
+   	<td>
+   		<a href = > Lösung Dozent (fehlt noch) </a>
+   	</td>
+  </tr>
+  <tr><td>&#160;</td><td>&#160;</td></tr>
+  <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200424_Stream_reduce_simple.md> Optional: Stream - reduce </a>
+   	</td>
+   	<td>
+   		<a href = > Lösung </a>
+   	</td>
+  </tr>
+  <tr>
+  	<td></td>
+   	<td>
+   		<a href = > Lösung Dozent (fehlt noch) </a>
+   	</td>
+  </tr>
+</table>
+
+&#160;
+&#160;
+
+<table>
+  <tr>
+    <th width=400 align="left"> Mini-Tasks </th>
+  </tr>
+  <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200423_MiniTask_StreamMethoden> Stream Methoden - filter() map() flatMap() </a>
+   	</td>
+  </tr>
+</table>
+
+&#160;
+&#160;
+
 ---
 
 ### Aufgaben 23.04.2020
