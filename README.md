@@ -5,6 +5,34 @@
 
 ## Inhaltsverzeichnis dieses Repositories.
 
+---
+
+### Aufgaben 27.04.2020
+<table>
+  <tr>
+    <th width=400 align="left">Aufgabenstellung</th>
+    <th width=400 align="left">Lösungen</th>
+  </tr>
+  <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/src_Loesungen/_200427_TextStats/TextStatistics.java> Vorgegebenes Interface implementieren </a>
+   	</td>
+   	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/src_Loesungen/_200427_TextStats/> Lösung </a>
+   	</td>
+  </tr>
+  <tr>
+  	<td></td>
+   	<td>
+   		<a href = > Lösung Dozent (fehlt noch) </a>
+   	</td>
+  </tr>
+  <tr><td>&#160;</td><td>&#160;</td></tr>
+</table>
+
+&#160;
+&#160;
+
 --- 
 
 ### Aufgaben 24.04.2020
@@ -24,7 +52,7 @@
   <tr>
   	<td></td>
    	<td>
-   		<a href = > Lösung Dozent (fehlt noch) </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200424_Stream_countMinMax> Lösung Dozent </a>
    	</td>
   </tr>
   <tr><td>&#160;</td><td>&#160;</td></tr>
@@ -35,13 +63,6 @@
    	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200424_Stream_reduce> Lösung </a>
    	</td>
-  </tr>
-  <tr>
-  	<td></td>
-   	<td>
-   		<a href = > Lösung Dozent (fehlt noch) </a>
-   	</td>
-  </tr>
 </table>
 
 &#160;
