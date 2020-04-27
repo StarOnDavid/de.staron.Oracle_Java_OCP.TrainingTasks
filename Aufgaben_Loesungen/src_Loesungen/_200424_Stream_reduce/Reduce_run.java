@@ -11,11 +11,11 @@ public class Reduce_run {
 	}
 
 	private static void a2() {
-		Arrays.stream(items)
-			// Habe reduce mit drei Parameter bis jetzt nicht ganz verstanden
-			// .reduce(0, (a, b) -> a.length() + b.length())
-		;
-		
+		Integer ident = 0;
+		Integer sumLength = Arrays.stream(items)
+				.parallel()
+				.reduce(ident, (a, b) -> a += b.length(), (x,y) -> x+y );
+		System.out.println("'Items' enthällt insgesammt " + sumLength + " 'Chars'.");
 	}
 
 	private static void a1() {
