@@ -5,14 +5,80 @@
 
 ## Inhaltsverzeichnis dieses Repositories.
 
----
+--- 
 
-### Aufgaben 27.04.2020
+### Aufgaben 28.04.2020
 <table>
   <tr>
     <th width=400 align="left">Aufgabenstellung</th>
     <th width=400 align="left">Lösungen</th>
   </tr>
+  <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200428_Stream_collect_Numbers.md> Stream - collect - Numbers </a>
+   	</td>
+   	<td>
+   		<a href = > Lösung (fehlt noch) </a>
+   	</td>
+  </tr>
+  <tr>
+  	<td></td>
+   	<td>
+   		<a href = > Lösung Dozent (fehlt noch) </a>
+   	</td>
+  </tr>
+</table>
+
+&#160;
+&#160;
+
+<table>
+  <tr>
+    <th width=400 align="left">MiniTask</th>
+
+  </tr>
+  <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200428_MiniTask_CollectV1> Stream - Collect </a>
+   	</td>
+  </tr>
+</table>
+
+&#160;
+&#160;
+
+---
+
+### Aufgaben 27.04.2020
+<table>
+  <tr>
+    <th width=400 align="left">Aufgabenstellungen</th>
+    <th width=400 align="left">Lösungen</th>
+  </tr>
+   <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200427_Stream_reduce_Personen.md> Stream - reduce - Personen </a>
+   	</td>
+   	<td>
+   		<a href = > Lösung (fehlt noch) </a>
+   	</td>
+  </tr>
+  <tr>
+  	<td></td>
+   	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200427_Stream_reduce_Person> Lösung Dozent </a>
+   	</td>
+  </tr>
+  <tr><td>&#160;</td><td>&#160;</td></tr>
+   <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200427_Stream_reduce_StringBuilder.md> Stream - reduce - StringBuilder </a>
+   	</td>
+   	<td>
+   		<a href = > Lösung (fehlt noch) </a>
+   	</td>
+  </tr>
+  <tr><td>&#160;</td><td>&#160;</td></tr>
   <tr>
   	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/src_Loesungen/_200427_TextStats/TextStatistics.java> Vorgegebenes Interface implementieren </a>
@@ -24,10 +90,9 @@
   <tr>
   	<td></td>
    	<td>
-   		<a href = > Lösung Dozent (fehlt noch) </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200427_textstats> Lösung Dozent </a>
    	</td>
   </tr>
-  <tr><td>&#160;</td><td>&#160;</td></tr>
 </table>
 
 &#160;
