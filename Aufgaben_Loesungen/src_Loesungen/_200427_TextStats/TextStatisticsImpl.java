@@ -23,10 +23,10 @@ public class TextStatisticsImpl implements TextStatistics{
 	 * @return Liefert die Anzahl der Sonderzeichen (Zeichen die weder Ziffern noch Buchstaben sind)
 	 */
 	@Override
-	public int getCountSpecialChars() {
-		return (int) this.text.chars().filter(c -> !(c > 64 && c < 91)) // Großbuchstaben
+	public int getCountSpecialChars() {														// Besser lesbar wöre 
+		return (int) this.text.chars().filter(c -> !(c > 64 && c < 91)) // Großbuchstaben 	// c -> Character.isLetter(c)
 									.filter(c -> !(c > 96 && c < 123)) 	// Kleinbuchstaben
-									.filter(c -> !(c > 47 && c < 58))	// Zahlen
+									.filter(c -> !(c > 47 && c < 58))	// Zahlen			// c -> Character.isDigit(c)
 									.count();
 	}
 	
@@ -38,6 +38,8 @@ public class TextStatisticsImpl implements TextStatistics{
 	@Override
 	public int getCountLetters() {
 		return (int) this.text.chars().filter(c -> (c > 64 && c < 91) || (c > 96 && c < 123)).count();
+		// besser lesbar:
+		//			 this.text.chars().filter(c -> Character.isLetter(c)).count();
 	}
 	
 	/**
