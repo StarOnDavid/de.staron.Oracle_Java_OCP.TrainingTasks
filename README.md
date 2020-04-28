@@ -87,6 +87,12 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/src_Loesungen/_200427_TextStats/> Lösung </a>
    	</td>
   </tr>
+  <tr>
+  	<td></td>
+   	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200427_Stream_TextStats> Lösung Dozent </a>
+   	</td>
+  </tr>
 </table>
 
 &#160;
