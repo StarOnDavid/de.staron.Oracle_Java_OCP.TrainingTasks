@@ -18,7 +18,7 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200428_Stream_collect_Numbers.md> Stream - collect - Numbers </a>
    	</td>
    	<td>
-   		<a href = > Lösung (fehlt noch) </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200428_Stream_collect_Numbers> Lösung </a>
    	</td>
   </tr>
   <tr>
@@ -81,16 +81,10 @@
   <tr><td>&#160;</td><td>&#160;</td></tr>
   <tr>
   	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/src_Loesungen/_200427_TextStats/TextStatistics.java> Vorgegebenes Interface implementieren </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/src_Loesungen/_200427_TextStats/TextStatistics.java> Impl - Iface - TextStats </a>
    	</td>
    	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/src_Loesungen/_200427_TextStats/> Lösung </a>
-   	</td>
-  </tr>
-  <tr>
-  	<td></td>
-   	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200427_textstats> Lösung Dozent </a>
    	</td>
   </tr>
 </table>
