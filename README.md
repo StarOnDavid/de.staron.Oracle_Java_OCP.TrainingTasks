@@ -19,7 +19,7 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200429_Project%20Words_funkt_Streams.md> Project Words - funkt. Streams </a>
    	</td>
    	<td>
-   		<a href = > Lösung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200429_Project_Words_funkt_Streams> Lösung </a>
    	</td>
   </tr>
   <tr>
@@ -34,7 +34,7 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200429_Stream_collect_Collectors_Personen.md> Stream - collect - Collectors - Personen </a>
    	</td>
    	<td>
-   		<a href = > Lösung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200429_Stream_collect_Collectors_Personen> Lösung </a>
    	</td>
   </tr>
   <tr>
@@ -50,12 +50,16 @@
 
 <table>
   <tr>
-    <th width=400 align="left">MiniTask</th>
-
+    <th width=400 align="left">MiniTasks</th>
   </tr>
   <tr>
   	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200429_MiniTask_Collectors_groupingBy> Stream - Collectors - groupingBy </a>
+   	</td>
+  </tr>
+  <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200429_MiniTask_mapping_LocalDate> Stream - mapping - LocalDate </a>
    	</td>
   </tr>
 </table>
