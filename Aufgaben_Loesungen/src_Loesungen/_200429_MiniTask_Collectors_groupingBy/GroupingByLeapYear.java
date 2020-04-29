@@ -7,6 +7,20 @@ import java.util.function.Function;
 import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
+/*
+ * Für die neue Pipeline:
+ * 
+ * - Generieren Sie bitte die Zahlen von 1901 bis 2020
+ * - Alle Werte als Jahresangaben überprüfen ob es ein Schalthjahr ist oder nicht.
+ *    Tipp: Year.isLeap(year)
+ *    
+ * - Zwei Gruppen bilden: 
+ * 			- Boolean.TRUE (Gruppe der Schaltjahre)
+ * 			- Boolean.FALSE (Gruppe der Nicht-Schaltjahre)
+ * 
+ * Gruppen ausgeben bitte
+ */
+
 public class GroupingByLeapYear {
 	private static List<Integer> years = new ArrayList<>();
 
