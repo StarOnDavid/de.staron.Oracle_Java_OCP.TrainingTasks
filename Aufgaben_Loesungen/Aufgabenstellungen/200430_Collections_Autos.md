@@ -5,7 +5,7 @@
 ###### A1.
 Erstellen Sie eine abstrakte Klasse 'Auto' und die Klassen 'VW' und 'BMW' nach folgendem Klassendiagramm
 
-![Klassendiagramm Auto-VW-BMW]( Collections-Autos-01.png )
+![Klassendiagramm Auto-VW-BMW]( 200430_Collections_Autos_01.png )
 
 ###### A2.
 Erstellen Sie eine Instanz vom Typ VW (Golf, Baujahr 1990) und eine Instanz vom Typ BMW (Z4, Baujahr 2000). Überschreiben Sie die toString-Methode für VW und BMW so, dass die Ausgaben mit `System.out.println` folgende Form haben:
