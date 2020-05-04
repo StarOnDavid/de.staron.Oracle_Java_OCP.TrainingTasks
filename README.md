@@ -39,7 +39,7 @@
   <tr>
   	<td></td>
    	<td>
-   		<a href = > Lösung Dozent (fehlt noch) </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200430_Collections_Autos> Lösung Dozent </a>
    	</td>
   </tr>
   <tr><td>&#160;</td><td>&#160;</td></tr>
@@ -48,13 +48,13 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200430_Stream_collect_Warenkorb.md> Optional: Stream - collect - Warenkorb </a>
    	</td>
    	<td>
-   		<a href = > Lösung (fehlt noch) </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200430_Stream_collect_ShoppingBasket> Lösung </a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = > Lösung Dozent (fehlt noch) </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200430_Collect_Warenkorb> Lösung Dozent </a>
    	</td>
   </tr>
 </table>
