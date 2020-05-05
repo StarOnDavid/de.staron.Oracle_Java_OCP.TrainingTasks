@@ -7,10 +7,8 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import java.util.Random;
-import java.util.function.Function;
 import java.util.stream.Stream;
 
 public class saveLoadArray_run {
@@ -81,6 +79,7 @@ public class saveLoadArray_run {
 		System.out.println();
 	}
 	
+	@SuppressWarnings(value = {"unused"})
 	private static void testGetRandom(int min, int max, int numOfRandoms) {
 		System.out.println("*** Test 'getRandom()' with min: " + min + " max: " + max + " (" + numOfRandoms + " times).");
 		
