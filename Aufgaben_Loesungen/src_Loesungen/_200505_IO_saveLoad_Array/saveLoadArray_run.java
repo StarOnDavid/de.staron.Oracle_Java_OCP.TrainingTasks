@@ -2,6 +2,7 @@ package _200505_IO_saveLoad_Array;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
+import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -15,6 +16,12 @@ public class saveLoadArray_run {
 	private static String path = "./src_Loesungen/_200505_IO_saveLoad_Array/files/";
 
 	public static void main(String[] args) {
+		try {
+			System.out.println("aktuelles Arbeitsverzeichnis: " + new File(".").getAbsoluteFile().getCanonicalPath());
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 //		testGetRandom(-20, 20, 10);
 		
 		int[] arr = createArray(new Random().nextInt(20)+1, -20, 20);
