@@ -7,7 +7,34 @@
 
 ---
 
-### Aufgaben Vorlage
+### Aufgaben 06.05.2020
+<table>
+  <tr>
+    <th width=400 align="left">Aufgabenstellungen</th>
+    <th width=400 align="left">Lösungen</th>
+  </tr>
+  <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200506_Project_DeutscheStaedte.md> Project - Deutsche Städte </a>
+   	</td>
+   	<td>
+   		<a href = > Lösung </a>
+   	</td>
+  </tr>
+  <tr>
+  	<td></td>
+   	<td>
+   		<a href = > Lösung Dozent (fehlt noch) </a>
+   	</td>
+  </tr>
+</table>
+
+&#160;
+&#160;
+
+---
+
+### Aufgaben 05.05.2020
 <table>
   <tr>
     <th width=400 align="left">Aufgabenstellungen</th>
