@@ -18,7 +18,7 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200506_Project_DeutscheStaedte.md> Project - Deutsche Städte </a>
    	</td>
    	<td>
-   		<a href = > Lösung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200506_Project_German_Cities> Lösung </a>
    	</td>
   </tr>
   <tr>
