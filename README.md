@@ -67,8 +67,8 @@
 ### Aufgaben 06.05.2020
 <table>
   <tr>
-    <th width=400 align="left">Aufgabenstellungen</th>
-    <th width=400 align="left">Lösungen</th>
+    <th width=500 align="left">Aufgabenstellungen</th>
+    <th width=500 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
@@ -94,8 +94,8 @@
 ### Aufgaben 05.05.2020
 <table>
   <tr>
-    <th width=400 align="left">Aufgabenstellungen</th>
-    <th width=400 align="left">Lösungen</th>
+    <th width=500 align="left">Aufgabenstellungen</th>
+    <th width=500 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
@@ -136,8 +136,8 @@
 ### Aufgaben 30.04.2020
 <table>
   <tr>
-    <th width=400 align="left">Aufgabenstellungen</th>
-    <th width=400 align="left">Lösungen</th>
+    <th width=500 align="left">Aufgabenstellungen</th>
+    <th width=500 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
@@ -193,8 +193,8 @@
 ### Aufgaben 29.04.2020
 <table>
   <tr>
-    <th width=400 align="left">Aufgabenstellung</th>
-    <th width=400 align="left">Lösungen</th>
+    <th width=500 align="left">Aufgabenstellung</th>
+    <th width=500 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
@@ -232,7 +232,7 @@
 
 <table>
   <tr>
-    <th width=400 align="left">MiniTasks</th>
+    <th width=500 align="left">MiniTasks</th>
   </tr>
   <tr>
   	<td>
@@ -254,8 +254,8 @@
 ### Aufgaben 28.04.2020
 <table>
   <tr>
-    <th width=400 align="left">Aufgabenstellung</th>
-    <th width=400 align="left">Lösungen</th>
+    <th width=500 align="left">Aufgabenstellung</th>
+    <th width=500 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
@@ -278,7 +278,7 @@
 
 <table>
   <tr>
-    <th width=400 align="left">MiniTask</th>
+    <th width=500 align="left">MiniTask</th>
 
   </tr>
   <tr>
@@ -296,8 +296,8 @@
 ### Aufgaben 27.04.2020
 <table>
   <tr>
-    <th width=400 align="left">Aufgabenstellungen</th>
-    <th width=400 align="left">Lösungen</th>
+    <th width=500 align="left">Aufgabenstellungen</th>
+    <th width=500 align="left">Lösungen</th>
   </tr>
    <tr>
   	<td>
@@ -347,8 +347,8 @@
 ### Aufgaben 24.04.2020
 <table>
   <tr>
-    <th width=400 align="left">Aufgabenstellung</th>
-    <th width=400 align="left">Lösungen</th>
+    <th width=500 align="left">Aufgabenstellung</th>
+    <th width=500 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
@@ -379,7 +379,7 @@
 
 <table>
   <tr>
-    <th width=400 align="left"> Mini-Tasks </th>
+    <th width=500 align="left"> Mini-Tasks </th>
   </tr>
   <tr>
   	<td>
@@ -396,8 +396,8 @@
 ### Aufgaben 23.04.2020
 <table>
   <tr>
-    <th width=400 align="left">Aufgabenstellung</th>
-    <th width=400 align="left">Lösungen</th>
+    <th width=500 align="left">Aufgabenstellung</th>
+    <th width=500 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
@@ -420,7 +420,7 @@
 
 <table>
   <tr>
-    <th width=400 align="left"> Mini-Tasks </th>
+    <th width=500 align="left"> Mini-Tasks </th>
   </tr>
   <tr>
   	<td>
@@ -437,8 +437,8 @@
 ### Aufgaben 22.04.2020
 <table>
   <tr>
-    <th width=400 align="left">Aufgabenstellung</th>
-    <th width=400 align="left">Lösungen</th>
+    <th width=500 align="left">Aufgabenstellung</th>
+    <th width=500 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
@@ -464,7 +464,7 @@
 ### Selbststudium 21.04.2020
 <table>
   <tr>
-    <th width=400 align="left">Test von Functionals</th>
+    <th width=500 align="left">Test von Functionals</th>
   </tr>
   <tr>
   	<td>
@@ -481,8 +481,8 @@
 ### Aufgaben 20.04.2020
 <table>
   <tr>
-    <th width=400 align="left">Aufgabenstellung</th>
-    <th width=400 align="left">Lösungen</th>
+    <th width=500 align="left">Aufgabenstellung</th>
+    <th width=500 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
@@ -508,8 +508,8 @@
 ### Aufgaben 17.04.2020
 <table>
   <tr>
-    <th width=400 align="left">Aufgabenstellung</th>
-    <th width=400 align="left">Lösungen</th>
+    <th width=500 align="left">Aufgabenstellung</th>
+    <th width=500 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
@@ -535,8 +535,8 @@
 ### Aufgaben 16.04.2020
 <table>
   <tr>
-    <th width=400 align="left">Aufgabenstellungen</th>
-    <th width=400 align="left">Lösungen</th>
+    <th width=500 align="left">Aufgabenstellungen</th>
+    <th width=500 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
@@ -577,8 +577,8 @@
 ### Aufgaben 15.04.2020
 <table>
   <tr>
-    <th width=400 align="left">Aufgabenstellungen</th>
-    <th width=400 align="left">Lösungen</th>
+    <th width=500 align="left">Aufgabenstellungen</th>
+    <th width=500 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
@@ -616,8 +616,8 @@
 
 <table>
   <tr>
-    <th width=400 align="left">Mini-Task</th>
-    <th width=400 align="left">Lösung</th>
+    <th width=500 align="left">Mini-Task</th>
+    <th width=500 align="left">Lösung</th>
   </tr>
   <tr>
   	<td>
@@ -642,8 +642,8 @@
 ### Aufgaben 14.04.2020
 <table>
   <tr>
-    <th width=400 align="left">Aufgabenstellungen</th>
-    <th width=400 align="left">Lösungen</th>
+    <th width=500 align="left">Aufgabenstellungen</th>
+    <th width=500 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
@@ -690,8 +690,8 @@
 
 <table>
   <tr>
-    <th width=400 align="left">Mini-Task</th>
-    <th width=400 align="left">Lösung</th>
+    <th width=500 align="left">Mini-Task</th>
+    <th width=500 align="left">Lösung</th>
   </tr>
   <tr>
   	<td>
@@ -711,8 +711,8 @@
 ### Aufgaben 09.04.2020
 <table>
   <tr>
-    <th width=400 align="left">Aufgabenstellungen</th>
-    <th width=400 align="left">Lösungen</th>
+    <th width=500 align="left">Aufgabenstellungen</th>
+    <th width=500 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
@@ -747,8 +747,8 @@
 ### Aufgaben 08.04.2020
 <table>
   <tr>
-    <th width=400 align="left">Aufgabenstellungen</th>
-    <th width=400 align="left">Lösungen</th>
+    <th width=500 align="left">Aufgabenstellungen</th>
+    <th width=500 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
@@ -789,8 +789,8 @@
 ### Aufgaben 07.04.2020
 <table>
   <tr>
-    <th width=400 align="left">Aufgabenstellungen</th>
-    <th width=400 align="left">Lösungen</th>
+    <th width=500 align="left">Aufgabenstellungen</th>
+    <th width=500 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
@@ -828,8 +828,8 @@
 ### Aufgaben 06.04.2020
 <table>
   <tr>
-    <th width=400 align="left">Aufgabenstellung</th>
-    <th width=400 align="left">Lösungen</th>
+    <th width=500 align="left">Aufgabenstellung</th>
+    <th width=500 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
@@ -856,8 +856,8 @@
 
 <table>
   <tr>
-    <th width=400 align="left">Aufgabenstellungen</th>
-    <th width=400 align="left">Lösungen</th>
+    <th width=500 align="left">Aufgabenstellungen</th>
+    <th width=500 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
@@ -910,7 +910,7 @@
 
 <table>
   <tr>
-    <th width=400 align="left">Functional Interfaces - Mini Tasks inkl. Lösung</th>
+    <th width=500 align="left">Functional Interfaces - Mini Tasks inkl. Lösung</th>
   </tr>
   <tr>
   	<td>
@@ -937,8 +937,8 @@
 ### Aufgaben 02.04.2020
 <table>
   <tr>
-    <th width=400 align="left">Aufgabenstellung</th>
-    <th width=400 align="left">Lösungen</th>
+    <th width=500 align="left">Aufgabenstellung</th>
+    <th width=500 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
@@ -965,8 +965,8 @@
 ### Aufgaben 01.04.2020
 <table>
   <tr>
-    <th width=400 align="left">Aufgabenstellungen</th>
-    <th width=400 align="left">Lösungen</th>
+    <th width=500 align="left">Aufgabenstellungen</th>
+    <th width=500 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
@@ -1007,8 +1007,8 @@
 ### Aufgaben 31.03.2020
 <table>
   <tr>
-    <th width=400 align="left">Aufgabenstellung</th>
-    <th width=400 align="left">Lösungen</th>
+    <th width=500 align="left">Aufgabenstellung</th>
+    <th width=500 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
@@ -1032,8 +1032,8 @@
 ### Aufgaben 27.03.2020
 <table>
   <tr>
-    <th width=400 align="left">Aufgabenstellungen</th>
-    <th width=400 align="left">Lösungen</th>
+    <th width=500 align="left">Aufgabenstellungen</th>
+    <th width=500 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
@@ -1059,8 +1059,8 @@
 ### Aufgaben 26.03.2020
 <table>
   <tr>
-    <th width=400 align="left">Aufgabenstellungen</th>
-    <th width=400 align="left">Lösungen</th>
+    <th width=500 align="left">Aufgabenstellungen</th>
+    <th width=500 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
@@ -1102,8 +1102,8 @@
 ### Aufgaben 25.03.2020
 <table>
   <tr>
-    <th width=400 align="left">Aufgabenstellungen</th>
-    <th width=400 align="left">Lösungen</th>
+    <th width=500 align="left">Aufgabenstellungen</th>
+    <th width=500 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
@@ -1140,8 +1140,8 @@
 ### Aufgaben Vorlage
 <table>
   <tr>
-    <th width=400 align="left">Aufgabenstellungen</th>
-    <th width=400 align="left">Lösungen</th>
+    <th width=500 align="left">Aufgabenstellungen</th>
+    <th width=500 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
