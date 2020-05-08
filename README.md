@@ -10,8 +10,8 @@
 ### Aufgaben 08.05.2020
 <table>
   <tr>
-    <th width=400 align="left">Aufgabenstellungen</th>
-    <th width=400 align="left">Lösungen</th>
+    <th width=500 align="left">Aufgabenstellungen</th>
+    <th width=500 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
@@ -45,7 +45,7 @@
   <tr><td>&#160;</td><td>&#160;</td></tr>
    <tr>
   	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200508_Files_Dateien_erstellen_verschieben_entfernen.md> <em>Optional</em><br> Files - Dateien erstellen-verschieben-entfernen </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200508_Files_Dateien_erstellen_verschieben_entfernen.md> <em>Optional</em> Files - Dateien erstellen-verschieben-entfernen </a>
    	</td>
    	<td>
    		<a href = > Lösung </a>
