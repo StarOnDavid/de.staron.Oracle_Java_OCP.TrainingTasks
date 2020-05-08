@@ -7,24 +7,81 @@
 
 ---
 
-### Aufgaben 06.05.2020
+### Aufgaben 08.05.2020
 <table>
   <tr>
     <th width=400 align="left">Aufgabenstellungen</th>
-    <th width=400 align="left">LÃ¶sungen</th>
+    <th width=400 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200506_Project_DeutscheStaedte.md> Project - Deutsche StÃ¤dte </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200508_Files_Laufwerke.md> Files - Laufwerke </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200506_Project_German_Cities> LÃ¶sung </a>
+   		<a href = > Lösung </a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = > LÃ¶sung Dozent (fehlt noch) </a>
+   		<a href = > Lösung Dozent (fehlt noch) </a>
+   	</td>
+  </tr>
+  <tr><td>&#160;</td><td>&#160;</td></tr>
+   <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200508_Files_Verzeichnisse.md> Files - Verzeichnisse </a>
+   	</td>
+   	<td>
+   		<a href = > Lösung </a>
+   	</td>
+  </tr>
+  <tr>
+  	<td></td>
+   	<td>
+   		<a href = > Lösung Dozent (fehlt noch) </a>
+   	</td>
+  </tr>
+  <tr><td>&#160;</td><td>&#160;</td></tr>
+   <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200508_Files_Dateien_erstellen_verschieben_entfernen.md> <em>Optional</em> Files - Dateien erstellen-verschieben-entfernen </a>
+   	</td>
+   	<td>
+   		<a href = > Lösung </a>
+   	</td>
+  </tr>
+  <tr>
+  	<td></td>
+   	<td>
+   		<a href = > Lösung Dozent (fehlt noch) </a>
+   	</td>
+  </tr>
+</table>
+
+&#160;
+&#160;
+
+---
+
+### Aufgaben 06.05.2020
+<table>
+  <tr>
+    <th width=400 align="left">Aufgabenstellungen</th>
+    <th width=400 align="left">Lösungen</th>
+  </tr>
+  <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200506_Project_DeutscheStaedte.md> Project - Deutsche Städte </a>
+   	</td>
+   	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200506_Project_German_Cities> Lösung </a>
+   	</td>
+  </tr>
+  <tr>
+  	<td></td>
+   	<td>
+   		<a href = > Lösung Dozent (fehlt noch) </a>
    	</td>
   </tr>
 </table>
@@ -38,20 +95,20 @@
 <table>
   <tr>
     <th width=400 align="left">Aufgabenstellungen</th>
-    <th width=400 align="left">LÃ¶sungen</th>
+    <th width=400 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200505_IO_copy_text_file.md> IO - Copy file </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200505_IO_copyFile> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200505_IO_copyFile> Lösung </a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = > LÃ¶sung Dozent (fehlt noch) </a>
+   		<a href = > Lösung Dozent (fehlt noch) </a>
    	</td>
   </tr>
   <tr><td>&#160;</td><td>&#160;</td></tr>
@@ -60,13 +117,13 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200505_IO_save_load_array.md> IO - save/load Array </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200505_IO_saveLoad_Array> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200505_IO_saveLoad_Array> Lösung </a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = > LÃ¶sung Dozent (fehlt noch) </a>
+   		<a href = > Lösung Dozent (fehlt noch) </a>
    	</td>
   </tr>
 </table>
@@ -80,20 +137,20 @@
 <table>
   <tr>
     <th width=400 align="left">Aufgabenstellungen</th>
-    <th width=400 align="left">LÃ¶sungen</th>
+    <th width=400 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200430_Stream_collect_Collectors_Autos.md> Stream - collect - Collectors - Autos </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200430_Stream_collect_Collectors_Autos> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200430_Stream_collect_Collectors_Autos> Lösung </a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200430_collect_Collectors_Auto> LÃ¶sung Dozent </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200430_collect_Collectors_Auto> Lösung Dozent </a>
    	</td>
   </tr>
   <tr><td>&#160;</td><td>&#160;</td></tr>
@@ -102,28 +159,28 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200430_Collections_Autos.md> Collections-Autos </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200430_Collections_Cars> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200430_Collections_Cars> Lösung </a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200430_Collections_Autos> LÃ¶sung Dozent </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200430_Collections_Autos> Lösung Dozent </a>
    	</td>
   </tr>
   <tr><td>&#160;</td><td>&#160;</td></tr>
   <tr>
   	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200430_Stream_collect_Warenkorb.md> Optional: Stream - collect - Warenkorb </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200430_Stream_collect_Warenkorb.md> <em>Optional</em> Stream - collect - Warenkorb </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200430_Stream_collect_ShoppingBasket> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200430_Stream_collect_ShoppingBasket> Lösung </a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200430_Collect_Warenkorb> LÃ¶sung Dozent </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200430_Collect_Warenkorb> Lösung Dozent </a>
    	</td>
   </tr>
 </table>
@@ -137,20 +194,20 @@
 <table>
   <tr>
     <th width=400 align="left">Aufgabenstellung</th>
-    <th width=400 align="left">LÃ¶sungen</th>
+    <th width=400 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200429_Project%20Words_funkt_Streams.md> Project Words - funkt. Streams </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200429_Project_Words_funkt_Streams> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200429_Project_Words_funkt_Streams> Lösung </a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200429_Streams_Words> LÃ¶sung Dozent </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200429_Streams_Words> Lösung Dozent </a>
    	</td>
   </tr>
   <tr><td>&#160;</td><td>&#160;</td></tr>
@@ -159,13 +216,13 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200429_Stream_collect_Collectors_Personen.md> Stream - collect - Collectors - Personen </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200429_Stream_collect_Collectors_Personen> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200429_Stream_collect_Collectors_Personen> Lösung </a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200429_Stream_Col_Personen> LÃ¶sung Dozent </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200429_Stream_Col_Personen> Lösung Dozent </a>
    	</td>
   </tr>
 </table>
@@ -198,20 +255,20 @@
 <table>
   <tr>
     <th width=400 align="left">Aufgabenstellung</th>
-    <th width=400 align="left">LÃ¶sungen</th>
+    <th width=400 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200428_Stream_collect_Numbers.md> Stream - collect - Numbers </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200428_Stream_collect_Numbers> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200428_Stream_collect_Numbers> Lösung </a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200428_Stream_collect_Number> LÃ¶sung Dozent </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200428_Stream_collect_Number> Lösung Dozent </a>
    	</td>
   </tr>
 </table>
@@ -240,20 +297,20 @@
 <table>
   <tr>
     <th width=400 align="left">Aufgabenstellungen</th>
-    <th width=400 align="left">LÃ¶sungen</th>
+    <th width=400 align="left">Lösungen</th>
   </tr>
    <tr>
   	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200427_Stream_reduce_Personen.md> Stream - reduce - Personen </a>
    	</td>
    	<td>
-   		<a href = > LÃ¶sung (fehlt noch) </a>
+   		<a href = > Lösung (fehlt noch) </a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200427_Stream_reduce_Person> LÃ¶sung Dozent </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200427_Stream_reduce_Person> Lösung Dozent </a>
    	</td>
   </tr>
   <tr><td>&#160;</td><td>&#160;</td></tr>
@@ -262,7 +319,7 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200427_Stream_reduce_StringBuilder.md> Stream - reduce - StringBuilder </a>
    	</td>
    	<td>
-   		<a href = > LÃ¶sung (fehlt noch) </a>
+   		<a href = > Lösung (fehlt noch) </a>
    	</td>
   </tr>
   <tr><td>&#160;</td><td>&#160;</td></tr>
@@ -271,13 +328,13 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/src_Loesungen/_200427_TextStats/TextStatistics.java> Impl - Iface - TextStats </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/src_Loesungen/_200427_TextStats/> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/src_Loesungen/_200427_TextStats/> Lösung </a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200427_Stream_TextStats> LÃ¶sung Dozent </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200427_Stream_TextStats> Lösung Dozent </a>
    	</td>
   </tr>
 </table>
@@ -291,29 +348,29 @@
 <table>
   <tr>
     <th width=400 align="left">Aufgabenstellung</th>
-    <th width=400 align="left">LÃ¶sungen</th>
+    <th width=400 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200424_Stream_count_min_max.md> Stream - count/min/max </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200424_Stream_countMinMax> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200424_Stream_countMinMax> Lösung </a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200424_Stream_countMinMax> LÃ¶sung Dozent </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200424_Stream_countMinMax> Lösung Dozent </a>
    	</td>
   </tr>
   <tr><td>&#160;</td><td>&#160;</td></tr>
   <tr>
   	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200424_Stream_reduce_simple.md> Optional: Stream - reduce </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200424_Stream_reduce_simple.md> <em>Optional</em> Stream - reduce </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200424_Stream_reduce> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200424_Stream_reduce> Lösung </a>
    	</td>
 </table>
 
@@ -340,20 +397,20 @@
 <table>
   <tr>
     <th width=400 align="left">Aufgabenstellung</th>
-    <th width=400 align="left">LÃ¶sungen</th>
+    <th width=400 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200423_Stream_intermediate_operations.md> Stream - intermediate operations </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200423_Stream_intermediate_operations> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200423_Stream_intermediate_operations> Lösung </a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200423_Stream_ntermediate_operations> LÃ¶sung Dozent </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200423_Stream_ntermediate_operations> Lösung Dozent </a>
    	</td>
   </tr>
 </table>
@@ -381,20 +438,20 @@
 <table>
   <tr>
     <th width=400 align="left">Aufgabenstellung</th>
-    <th width=400 align="left">LÃ¶sungen</th>
+    <th width=400 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200422_Stream_bilden.md> Stream bilden </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200422_Stream_bilden> LÃ¶sung - Erweitert mit dynamischem Methoden-Aufruf (Reflection-API) </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200422_Stream_bilden> Lösung - Erweitert mit dynamischem Methoden-Aufruf (Reflection-API) </a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200422_Stream_bilden> LÃ¶sung Dozent </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200422_Stream_bilden> Lösung Dozent </a>
    	</td>
   </tr>
 </table>
@@ -411,7 +468,7 @@
   </tr>
   <tr>
   	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_SelbstStudium/Functional> Optional - Comperator - BiFunction </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_SelbstStudium/Functional> <em>Optional</em> Comperator - BiFunction </a>
    	</td>
   </tr>
 </table>
@@ -425,20 +482,20 @@
 <table>
   <tr>
     <th width=400 align="left">Aufgabenstellung</th>
-    <th width=400 align="left">LÃ¶sungen</th>
+    <th width=400 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200420_BiFunction_MethodReference.md> BiFunction - MethodReference </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200420_BiFunction_MethodReference> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200420_BiFunction_MethodReference> Lösung </a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200420_BiFunction_MethodReference> LÃ¶sung Dozent </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200420_BiFunction_MethodReference> Lösung Dozent </a>
    	</td>
   </tr>
 </table>
@@ -452,20 +509,20 @@
 <table>
   <tr>
     <th width=400 align="left">Aufgabenstellung</th>
-    <th width=400 align="left">LÃ¶sungen</th>
+    <th width=400 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200417_Generics_Generische_Methoden.md> Generics - Generische Methoden </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200417_Generics_Generische_Methoden> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200417_Generics_Generische_Methoden> Lösung </a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = > LÃ¶sung Dozent (fehlt noch) </a>
+   		<a href = > Lösung Dozent (fehlt noch) </a>
    	</td>
   </tr>
 </table>
@@ -479,20 +536,20 @@
 <table>
   <tr>
     <th width=400 align="left">Aufgabenstellungen</th>
-    <th width=400 align="left">LÃ¶sungen</th>
+    <th width=400 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200416_Generics_Zoo.md> Generics - Zoo </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200416_Generics_Zoo> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200416_Generics_Zoo> Lösung </a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200416_Generics_Zoo> LÃ¶sung Dozent </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200416_Generics_Zoo> Lösung Dozent </a>
    	</td>
   </tr>
   <tr><td>&#160;</td><td>&#160;</td></tr>
@@ -501,13 +558,13 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200416_Generics_Platzhalter.md> Generics - Platzhalter </a>
    	</td>
    	<td>
-   		<a href = > LÃ¶sung (fehlt noch)</a>
+   		<a href = > Lösung (fehlt noch)</a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200416_Generics_Platzhalter> LÃ¶sung Dozent </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200416_Generics_Platzhalter> Lösung Dozent </a>
    	</td>
   </tr>
 </table>
@@ -521,20 +578,20 @@
 <table>
   <tr>
     <th width=400 align="left">Aufgabenstellungen</th>
-    <th width=400 align="left">LÃ¶sungen</th>
+    <th width=400 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200415_Map_FileTypes.md> Map - FileTypes </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200415_Map_FileTypes> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200415_Map_FileTypes> Lösung </a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200415_Map_FileType> LÃ¶sung Dozent </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200415_Map_FileType> Lösung Dozent </a>
    	</td>
   </tr>
   <tr><td>&#160;</td><td>&#160;</td></tr>
@@ -543,13 +600,13 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200415_Map_Besitzer_Fahrzeuge.md> Map - Besizter/Fahrzeuge </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200415_Map_Besitzer_Fahrzeuge> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200415_Map_Besitzer_Fahrzeuge> Lösung </a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200415_Map_Besitzer_Fahrzeug> LÃ¶sung Dozent </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200415_Map_Besitzer_Fahrzeug> Lösung Dozent </a>
    	</td>
   </tr>
 </table>
@@ -560,20 +617,20 @@
 <table>
   <tr>
     <th width=400 align="left">Mini-Task</th>
-    <th width=400 align="left">LÃ¶sung</th>
+    <th width=400 align="left">Lösung</th>
   </tr>
   <tr>
   	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200415_MiniTask_Map.md> Map </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200415_MiniTask_Map> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200415_MiniTask_Map> Lösung </a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200415_MiniTask_Map> LÃ¶sung Dozent </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200415_MiniTask_Map> Lösung Dozent </a>
    	</td>
   </tr>
 </table>
@@ -586,20 +643,20 @@
 <table>
   <tr>
     <th width=400 align="left">Aufgabenstellungen</th>
-    <th width=400 align="left">LÃ¶sungen</th>
+    <th width=400 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200414_Deque_Mirror.md> Deque - Mirror </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200414_Deque_Mirror> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200414_Deque_Mirror> Lösung </a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200414_DequeMirror> LÃ¶sung Dozent </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200414_DequeMirror> Lösung Dozent </a>
    	</td>
   </tr>
   <tr><td>&#160;</td><td>&#160;</td></tr>
@@ -608,22 +665,22 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200414_Queue_Task.md> PriorityQueue </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200414_PriorityQueue> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200414_PriorityQueue> Lösung </a>
    	</td>
   </tr>
   <tr><td>&#160;</td><td>&#160;</td></tr>
   <tr>
   	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200414_Deque_BrowserHistory.md> Optional: Browser History - Deque </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200414_Deque_BrowserHistory.md> <em>Optional</em> Browser History - Deque </a>
    	</td>
    	<td>
-   		<a href = > LÃ¶sung (fehlt noch)</a>
+   		<a href = > Lösung (fehlt noch)</a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = > LÃ¶sung Dozent (fehlt noch) </a>
+   		<a href = > Lösung Dozent (fehlt noch) </a>
    	</td>
   </tr>
 </table>
@@ -634,14 +691,14 @@
 <table>
   <tr>
     <th width=400 align="left">Mini-Task</th>
-    <th width=400 align="left">LÃ¶sung</th>
+    <th width=400 align="left">Lösung</th>
   </tr>
   <tr>
   	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200414_Deque_Palindrom.md> Palindrom - Deque </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200414_PriorityQueue> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200414_PriorityQueue> Lösung </a>
    	</td>
   </tr>
 </table>
@@ -655,20 +712,20 @@
 <table>
   <tr>
     <th width=400 align="left">Aufgabenstellungen</th>
-    <th width=400 align="left">LÃ¶sungen</th>
+    <th width=400 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200409_Set_Abfahrtzeiten.md> Set - Abfahrtzeiten </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200409_Set_Abfahrtzeiten> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200409_Set_Abfahrtzeiten> Lösung </a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200409_Set_Abfahrtzeiten> LÃ¶sung Dozent </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200409_Set_Abfahrtzeiten> Lösung Dozent </a>
    	</td>
   </tr>
   <tr><td>&#160;</td><td>&#160;</td></tr>
@@ -677,7 +734,7 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200409_TreeSet_SubDirectorys.md> TreeSet - SubDirectorys </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200409_TreeSet_SubDirectorys> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200409_TreeSet_SubDirectorys> Lösung </a>
    	</td>
   </tr>
 </table>
@@ -691,20 +748,20 @@
 <table>
   <tr>
     <th width=400 align="left">Aufgabenstellungen</th>
-    <th width=400 align="left">LÃ¶sungen</th>
+    <th width=400 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200408_Set_FileTypes.md> Set - FileTypes </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200408_Set_FileTypes> LÃ¶sungen </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200408_Set_FileTypes> Lösungen </a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200408_Set_FileTypes> LÃ¶sung Dozent</a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200408_Set_FileTypes> Lösung Dozent</a>
    	</td>
   </tr>
   <tr><td>&#160;</td><td>&#160;</td></tr>
@@ -713,13 +770,13 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200408_Set_TextStatistics.md> Set - TextStatistics </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200408_Set_TextStatistics> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200408_Set_TextStatistics> Lösung </a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200408_Set_TextStatistics> LÃ¶sung Dozent </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200408_Set_TextStatistics> Lösung Dozent </a>
    	</td>
   </tr>
 </table>
@@ -733,14 +790,14 @@
 <table>
   <tr>
     <th width=400 align="left">Aufgabenstellungen</th>
-    <th width=400 align="left">LÃ¶sungen</th>
+    <th width=400 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200407_List_Benchmark.md> List - Benchmark </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200407_List_Benchmark> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200407_List_Benchmark> Lösung </a>
    	</td>
   </tr>
   <tr><td>&#160;</td><td>&#160;</td></tr>
@@ -749,7 +806,7 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200407_List_Iterable.md> List - Iterable </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200407_List_Iterable> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200407_List_Iterable> Lösung </a>
    	</td>
   </tr>
   <tr><td>&#160;</td><td>&#160;</td></tr>
@@ -758,7 +815,7 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200407_List_sort.md> List - sort </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200407_List_sort> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200407_List_sort> Lösung </a>
    	</td>
   </tr>
 </table>
@@ -772,20 +829,20 @@
 <table>
   <tr>
     <th width=400 align="left">Aufgabenstellung</th>
-    <th width=400 align="left">LÃ¶sungen</th>
+    <th width=400 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200406_Generics_Garage.md> Generics - Garage </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200406_Generics_Garage> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200406_Generics_Garage> Lösung </a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200406_Generics_Garage> LÃ¶sung Dozent </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200406_Generics_Garage> Lösung Dozent </a>
    	</td>
   </tr>
 </table>
@@ -800,20 +857,20 @@
 <table>
   <tr>
     <th width=400 align="left">Aufgabenstellungen</th>
-    <th width=400 align="left">LÃ¶sungen</th>
+    <th width=400 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200403_Function_StringTransform.md> StringTransform - Function </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200403_StringTransform_Function> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200403_StringTransform_Function> Lösung </a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200403_StringTransform_Function> LÃ¶sung Dozent </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200403_StringTransform_Function> Lösung Dozent </a>
    	</td>
   </tr>
   <tr><td>&#160;</td><td>&#160;</td></tr>
@@ -822,13 +879,13 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200403_Consumer_PutIntegers.md> Put Integers - Consumer </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200403_PutIntegers_Consumer> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200403_PutIntegers_Consumer> Lösung </a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200403_PutIntegers_Consumer> LÃ¶sung Dozent </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200403_PutIntegers_Consumer> Lösung Dozent </a>
    	</td>
   </tr>
   <tr><td>&#160;</td><td>&#160;</td></tr>
@@ -837,13 +894,13 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200403_Supplier_deferred_eval_Tracing.md> Tracing - deferred evaluation - Supplier </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200403_Tracing_deferred_evaluation_Supplier> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200403_Tracing_deferred_evaluation_Supplier> Lösung </a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200403_Tracing_deferred_evaluation_Supplier> LÃ¶sung Dozent </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200403_Tracing_deferred_evaluation_Supplier> Lösung Dozent </a>
    	</td>
   </tr>
   
@@ -853,7 +910,7 @@
 
 <table>
   <tr>
-    <th width=400 align="left">Functional Interfaces - Mini Tasks inkl. LÃ¶sung</th>
+    <th width=400 align="left">Functional Interfaces - Mini Tasks inkl. Lösung</th>
   </tr>
   <tr>
   	<td>
@@ -881,20 +938,20 @@
 <table>
   <tr>
     <th width=400 align="left">Aufgabenstellung</th>
-    <th width=400 align="left">LÃ¶sungen</th>
+    <th width=400 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200402_Nested_Predicate_Personen.md> Nested - Predicate - Personen </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200402_Nestet_Predicate_Person> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200402_Nestet_Predicate_Person> Lösung </a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200402_Nestet_Predicate_Person> LÃ¶sung Dozent </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200402_Nestet_Predicate_Person> Lösung Dozent </a>
    	</td>
   </tr>
   <tr><td>&#160;</td><td>&#160;</td></tr>
@@ -909,20 +966,20 @@
 <table>
   <tr>
     <th width=400 align="left">Aufgabenstellungen</th>
-    <th width=400 align="left">LÃ¶sungen</th>
+    <th width=400 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200401_Nested_Gebaeude.md> Innere Klassen - GebÃ¤ude </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200401_Nested_Gebaeude.md> Innere Klassen - Gebäude </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200401_InnerClass_Building> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200401_InnerClass_Building> Lösung </a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200401_InnerClass_Building> LÃ¶sung Dozent </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200401_InnerClass_Building> Lösung Dozent </a>
    	</td>
   </tr>
   <tr><td>&#160;</td><td>&#160;</td></tr>
@@ -931,13 +988,13 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200401_Nested_Auto.md> Kleine Aufgabe - Innere Klassen - Autos </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200401_Innere_Klassen_Auto> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200401_Innere_Klassen_Auto> Lösung </a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200401_Innere_Klassen_Auto> LÃ¶sung Dozent </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200401_Innere_Klassen_Auto> Lösung Dozent </a>
    	</td>
   </tr>
 </table>
@@ -951,14 +1008,14 @@
 <table>
   <tr>
     <th width=400 align="left">Aufgabenstellung</th>
-    <th width=400 align="left">LÃ¶sungen</th>
+    <th width=400 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200331_Exceptions_IntMatrix.md> Exceptions - IntMatrix </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200331_Exceptions_IntMatrix> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200331_Exceptions_IntMatrix> Lösung </a>
    	</td>
   </tr>
 </table>
@@ -976,20 +1033,20 @@
 <table>
   <tr>
     <th width=400 align="left">Aufgabenstellungen</th>
-    <th width=400 align="left">LÃ¶sungen</th>
+    <th width=400 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200327_Kleine_Aufgabe_Enums.md> Kleine Aufgabe Enums </a> &#160;&#160;&#160;
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200327_Kleine_Aufgabe_Enums> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200327_Kleine_Aufgabe_Enums> Lösung </a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200327_Kleine_Aufgabe_Enums> LÃ¶sung Dozent </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200327_Kleine_Aufgabe_Enums> Lösung Dozent </a>
    	</td>
   </tr>
 </table>
@@ -1003,27 +1060,27 @@
 <table>
   <tr>
     <th width=400 align="left">Aufgabenstellungen</th>
-    <th width=400 align="left">LÃ¶sungen</th>
+    <th width=400 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200326_Interfaces_String_Transform.md> Interfaces - String Transform </a>
   	</td>
   	  <td>
-  	  	<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200326_Interfaces_StringTransformation> LÃ¶sung 1 (mit Enum) </a>
+  	  	<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200326_Interfaces_StringTransformation> Lösung 1 (mit Enum) </a>
   	</td>
   </tr>
   <tr>
   	<td></td>
   	<td>
-  	  <a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200326_Interfaces_StringTransformation_v2> LÃ¶sung 2 (mit Interface) </a>
+  	  <a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200326_Interfaces_StringTransformation_v2> Lösung 2 (mit Interface) </a>
   	  </a>
   	</td>
   </tr>
   <tr>
   	<td></td>
   	<td>
-  	  <a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200326_Interfaces_StringTransformation> LÃ¶sung Dozent </a>
+  	  <a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200326_Interfaces_StringTransformation> Lösung Dozent </a>
   	</td>
   </tr>
   <tr><td>&#160;</td><td>&#160;</td></tr>
@@ -1032,7 +1089,7 @@
   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200326_Enums_Hunderassen.md> <em>Optional</em> Enums - Hunderassen </a>
   	</td>
   	<td>
-  		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200326_Enums_Hunderassen> LÃ¶sung </a>
+  		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200326_Enums_Hunderassen> Lösung </a>
   	</td>
   </tr>
 </table>
@@ -1046,20 +1103,20 @@
 <table>
   <tr>
     <th width=400 align="left">Aufgabenstellungen</th>
-    <th width=400 align="left">LÃ¶sungen</th>
+    <th width=400 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200325_Interfaces_Comparable_Comparator_OS.md> Interfaces - Comparable/Comparator - OS </a>
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200325_InterfacesComperableComperator_OS> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200325_InterfacesComperableComperator_OS> Lösung </a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200325_InterfaceComperableComperator_OS> LÃ¶sung Dozent </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200325_InterfaceComperableComperator_OS> Lösung Dozent </a>
    	</td>
   </tr>
   <tr><td>&#160;</td><td>&#160;</td></tr>
@@ -1068,7 +1125,7 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200325_Interfaces_Comparable_Comparator_Person.md> Interfaces - Comparable/Comparator - Person </a> &#160;&#160;&#160;
    	</td>
    	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200325_InterfaceCpmperableComperator_Person> LÃ¶sung </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200325_InterfaceCpmperableComperator_Person> Lösung </a>
    	</td>
   </tr>
 </table>
@@ -1084,20 +1141,20 @@
 <table>
   <tr>
     <th width=400 align="left">Aufgabenstellungen</th>
-    <th width=400 align="left">LÃ¶sungen</th>
+    <th width=400 align="left">Lösungen</th>
   </tr>
   <tr>
   	<td>
    		<a href = > AufgabenTitel </a>
    	</td>
    	<td>
-   		<a href = > LÃ¶sung </a>
+   		<a href = > Lösung </a>
    	</td>
   </tr>
   <tr>
   	<td></td>
    	<td>
-   		<a href = > LÃ¶sung Dozent (fehlt noch) </a>
+   		<a href = > Lösung Dozent (fehlt noch) </a>
    	</td>
   </tr>
   <tr><td>&#160;</td><td>&#160;</td></tr>
