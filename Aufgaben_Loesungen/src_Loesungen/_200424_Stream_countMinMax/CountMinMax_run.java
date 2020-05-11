@@ -6,9 +6,8 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.Locale;
 import java.util.Optional;
-import java.util.function.Consumer;
-import java.util.stream.Stream;
 
+@SuppressWarnings("unused")
 public class CountMinMax_run {
 	private static Locale[] locales = Locale.getAvailableLocales();
 

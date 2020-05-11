@@ -2,8 +2,6 @@ package _200427_TextStats;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-import java.util.Optional;
-
 import org.junit.jupiter.api.Test;
 
 class Test_TextStatisticsImpl {

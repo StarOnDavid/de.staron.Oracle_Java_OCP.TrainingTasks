@@ -1,7 +1,5 @@
 package _200420_MiniTask_MethodenReferenz;
 
-import java.util.Formatter;
-import java.util.Locale;
 import java.util.function.BiConsumer;
 
 class PrintFormatted {

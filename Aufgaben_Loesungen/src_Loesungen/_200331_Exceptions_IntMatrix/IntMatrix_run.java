@@ -6,6 +6,7 @@ import _200331_Exceptions_IntMatrix.IntMatrix.IntMatrixNotMultipliableException;
 import _200331_Exceptions_IntMatrix.IntMatrix.IntMatrixRandomInitException;
 import _200331_Exceptions_IntMatrix.IntMatrix.IntMatrixSizeException;
 
+@SuppressWarnings("unused")
 public class IntMatrix_run {
 
 	public static void main (String... args) {

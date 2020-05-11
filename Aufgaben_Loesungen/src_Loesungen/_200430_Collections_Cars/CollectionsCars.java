@@ -10,8 +10,7 @@ import java.util.List;
 import java.util.PriorityQueue;
 import java.util.TreeSet;
 
-
-
+@SuppressWarnings("unused")
 public class CollectionsCars {
 	private enum Collection { LL, HS, TS, PQ, AL, AD }
 	private static Car vw1 = new VW("T1", 1962);
@@ -126,6 +125,7 @@ public class CollectionsCars {
 		ad.addAll(Arrays.asList(bmw1, bmw2));
 	}
 
+	@SuppressWarnings("incomplete-switch")
 	private static void a6_2(Collection col) {
 		switch(col) {
 		case AL:
@@ -165,6 +165,7 @@ public class CollectionsCars {
 		pq.addAll(Arrays.asList(vw1, vw2, vw3));
 	}
 	
+	@SuppressWarnings("incomplete-switch")
 	private static void a5(Collection col) {
 		switch(col) {
 		case LL:

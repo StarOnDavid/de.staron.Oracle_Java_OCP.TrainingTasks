@@ -1,7 +1,6 @@
 package _200414_PriorityQueue;
 
 import java.time.LocalDate;
-import java.util.Date;
 
 public class Task implements Comparable<Task>{
 	private LocalDate date;

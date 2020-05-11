@@ -3,6 +3,7 @@ package _200327_Kleine_Aufgabe_Enums;
 import java.util.Arrays;
 import java.util.Comparator;
 
+@SuppressWarnings("unused")
 public class KleineAufgabeEnums_run {
 
 	public static void main(String[] args) {

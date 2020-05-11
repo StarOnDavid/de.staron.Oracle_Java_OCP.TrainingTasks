@@ -3,8 +3,6 @@ package _200325_InterfaceCpmperableComperator_Person;
 import java.util.Arrays;
 import java.util.Comparator;
 
-import _200325_InterfacesComperableComperator_OS.OS;
-
 public class Person_run {
 	
 	public static void main(String[] args) {

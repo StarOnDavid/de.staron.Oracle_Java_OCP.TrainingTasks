@@ -1,6 +1,5 @@
 package _200414_PriorityQueue;
 
-import java.util.Collection;
 import java.util.PriorityQueue;
 
 class Blume implements Comparable<Blume>{

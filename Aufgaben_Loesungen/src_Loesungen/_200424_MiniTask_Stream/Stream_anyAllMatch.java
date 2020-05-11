@@ -1,6 +1,5 @@
 package _200424_MiniTask_Stream;
 
-import java.util.Arrays;
 import java.util.stream.Stream;
 
 public class Stream_anyAllMatch {

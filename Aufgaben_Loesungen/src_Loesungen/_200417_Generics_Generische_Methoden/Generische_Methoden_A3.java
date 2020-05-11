@@ -5,6 +5,7 @@ import java.util.List;
 
 public class Generische_Methoden_A3 {
 	
+	@SuppressWarnings("unchecked")
 	public static <N extends Number> N sum(Collection<N> zahlen) {
 		Double sum = 0.0;
 		

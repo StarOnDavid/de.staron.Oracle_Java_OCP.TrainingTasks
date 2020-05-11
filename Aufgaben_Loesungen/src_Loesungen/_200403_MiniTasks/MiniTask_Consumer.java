@@ -1,7 +1,5 @@
 package _200403_MiniTasks;
 
-import java.util.Arrays;
-import java.util.List;
 import java.util.function.Consumer;
 
 public class MiniTask_Consumer {

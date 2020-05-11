@@ -11,6 +11,7 @@ import java.util.function.Predicate;
 import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
+@SuppressWarnings("unused")
 public class CollectorsPersonen {
 	private static Person[] persons = {
 				new Person("Tom", "Bauarbeiter(in)"),	

@@ -8,6 +8,7 @@ import java.util.stream.Collector;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
+@SuppressWarnings("unused")
 public class CollectNumbers {
 	private static String[] arr = {
 									"1,2,3,4,5",

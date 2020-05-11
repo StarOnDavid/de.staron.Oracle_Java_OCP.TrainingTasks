@@ -10,6 +10,7 @@ import java.util.function.Function;
 import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
+@SuppressWarnings("unused")
 public class CarCollectors {
 	private static List<Car> cars = Arrays.asList(
 									new Car("VW", "Golf"),

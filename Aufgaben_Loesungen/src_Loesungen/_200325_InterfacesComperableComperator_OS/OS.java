@@ -1,7 +1,5 @@
 package _200325_InterfacesComperableComperator_OS;
 
-import java.util.Comparator;
-
 public class OS implements Comparable<OS> {
 	private String name;
 	private Integer version;

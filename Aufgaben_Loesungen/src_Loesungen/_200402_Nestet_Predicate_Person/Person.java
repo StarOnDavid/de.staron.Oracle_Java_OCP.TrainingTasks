@@ -1,8 +1,6 @@
 package _200402_Nestet_Predicate_Person;
 
 import java.time.LocalDate;
-import java.time.format.DateTimeFormatter;
-import java.time.format.FormatStyle;
 
 public class Person {
 	private String firstName;

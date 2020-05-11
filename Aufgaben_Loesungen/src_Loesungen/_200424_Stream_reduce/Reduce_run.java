@@ -2,6 +2,7 @@ package _200424_Stream_reduce;
 
 import java.util.Arrays;
 
+@SuppressWarnings("unused")
 public class Reduce_run {
 	private static String[] items = { "aa", "bbb", "cccc", "ddddd" };
 	

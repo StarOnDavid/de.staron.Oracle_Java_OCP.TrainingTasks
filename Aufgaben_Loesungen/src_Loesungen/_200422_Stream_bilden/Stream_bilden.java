@@ -1,7 +1,5 @@
 package _200422_Stream_bilden;
 
-import java.lang.reflect.Method;
-import java.lang.reflect.Modifier;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;

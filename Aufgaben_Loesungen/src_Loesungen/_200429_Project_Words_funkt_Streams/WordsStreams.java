@@ -12,6 +12,7 @@ import java.util.stream.Collector;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
+@SuppressWarnings("unused")
 public class WordsStreams {
 	private static List<String> enWords = Words.englishWords();
 	private static List<String> passwords = Words.passwords();
