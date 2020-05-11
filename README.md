@@ -7,7 +7,7 @@
 
 ---
 
-### Aufgaben 08.05.2020
+### Aufgaben 11.05.2020
 <table>
   <tr>
     <th width=500 align="left">Aufgabenstellungen</th>
@@ -15,10 +15,37 @@
   </tr>
   <tr>
   	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200511_Files_Dateien_erstellen_verschieben_entfernen.md> Files -  Dateien erstellen - verschieben - entfernen </a>
+   	</td>
+   	<td>
+   		<a href = > Lösung (fehlt noch)</a>
+   	</td>
+  </tr>
+  <tr>
+  	<td></td>
+   	<td>
+   		<a href = > Lösung Dozent (fehlt noch) </a>
+   	</td>
+  </tr>
+</table>
+
+&#160;
+&#160;
+
+---
+
+### Aufgaben 08.05.2020
+<table>
+  <tr>
+    <th width=500 align="left">Aufgabenstellungen</th>
+    <th width=500 align="left">Lösungen (fehlt noch)</th>
+  </tr>
+  <tr>
+  	<td>
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200508_Files_Laufwerke.md> Files - Laufwerke </a>
    	</td>
    	<td>
-   		<a href = > Lösung </a>
+   		<a href = > Lösung (fehlt noch)</a>
    	</td>
   </tr>
   <tr>
@@ -33,7 +60,7 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200508_Files_Verzeichnisse.md> Files - Verzeichnisse </a>
    	</td>
    	<td>
-   		<a href = > Lösung </a>
+   		<a href = > Lösung (fehlt noch)</a>
    	</td>
   </tr>
   <tr>
@@ -48,7 +75,7 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200508_Files_Dateien_erstellen_verschieben_entfernen.md> <em>Optional</em> Files - Dateien erstellen-verschieben-entfernen </a>
    	</td>
    	<td>
-   		<a href = > Lösung </a>
+   		<a href = > Lösung (fehlt noch)</a>
    	</td>
   </tr>
   <tr>
