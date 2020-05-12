@@ -96,11 +96,14 @@ public class FileHandler {
 	static void deleteFiles(String root, String extension) {
 		Path rootDir = Paths.get(root);
 		List<Path> filePaths = new ArrayList<>();
-		BiPredicate<Path, BasicFileAttributes> matcher = (path, bfa) -> bfa.isRegularFile();
+		BiPredicate<Path, BasicFileAttributes> matcher = (path, bfa) -> 
+			{ 
+				return bfa.isRegularFile() 
+						&& path.getFileName().toString().endsWith(extension);
+			};
 		
 		try {
 			Files.find(rootDir, 1, matcher)
-				.filter(p -> p.toString().endsWith(extension))
 				.forEach(p -> filePaths.add(p));
 		} catch (IOException e) {
 			e.printStackTrace();
