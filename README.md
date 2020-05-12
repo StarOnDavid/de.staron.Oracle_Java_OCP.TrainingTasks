@@ -69,21 +69,6 @@
    		<a href = > Lösung Dozent (fehlt noch) </a>
    	</td>
   </tr>
-  <tr><td>&#160;</td><td>&#160;</td></tr>
-   <tr>
-  	<td>
-   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200508_Files_Dateien_erstellen_verschieben_entfernen.md> <em>Optional</em> Files - Dateien erstellen-verschieben-entfernen </a>
-   	</td>
-   	<td>
-   		<a href = > Lösung (fehlt noch)</a>
-   	</td>
-  </tr>
-  <tr>
-  	<td></td>
-   	<td>
-   		<a href = > Lösung Dozent (fehlt noch) </a>
-   	</td>
-  </tr>
 </table>
 
 &#160;
