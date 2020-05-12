@@ -7,6 +7,33 @@
 
 ---
 
+### Aufgaben 12.05.2020
+<table>
+  <tr>
+    <th width=500 align="left">Aufgabenstellungen</th>
+    <th width=500 align="left">Lösungen</th>
+  </tr>
+  <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200512_Files_FilesCounter.md> Files - FileCounter </a>
+   	</td>
+   	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200512_Files_FileCounter> Lösung </a>
+   	</td>
+  </tr>
+  <tr>
+  	<td></td>
+   	<td>
+   		<a href = > Lösung Dozent (fehlt noch) </a>
+   	</td>
+  </tr>
+</table>
+
+&#160;
+&#160;
+
+---
+
 ### Aufgaben 11.05.2020
 <table>
   <tr>
@@ -24,7 +51,7 @@
   <tr>
   	<td></td>
    	<td>
-   		<a href = > Lösung Dozent (fehlt noch) </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200511_Files_Dateien_erstellen_verschieben_entfernen> Lösung Dozent </a>
    	</td>
   </tr>
 </table>
@@ -51,7 +78,7 @@
   <tr>
   	<td></td>
    	<td>
-   		<a href = > Lösung Dozent (fehlt noch) </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200508_Files_Laufwerke> Lösung Dozent </a>
    	</td>
   </tr>
   <tr><td>&#160;</td><td>&#160;</td></tr>
@@ -66,7 +93,7 @@
   <tr>
   	<td></td>
    	<td>
-   		<a href = > Lösung Dozent (fehlt noch) </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200508_Files_Verzeichnisse> Lösung Dozent </a>
    	</td>
   </tr>
 </table>
@@ -93,7 +120,7 @@
   <tr>
   	<td></td>
    	<td>
-   		<a href = > Lösung Dozent (fehlt noch) </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200506_Projekt_Deutsche_Staedte> Lösung Dozent </a>
    	</td>
   </tr>
 </table>
@@ -117,12 +144,6 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200505_IO_copyFile> Lösung </a>
    	</td>
   </tr>
-  <tr>
-  	<td></td>
-   	<td>
-   		<a href = > Lösung Dozent (fehlt noch) </a>
-   	</td>
-  </tr>
   <tr><td>&#160;</td><td>&#160;</td></tr>
    <tr>
   	<td>
@@ -135,7 +156,7 @@
   <tr>
   	<td></td>
    	<td>
-   		<a href = > Lösung Dozent (fehlt noch) </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200505_IO_Save_Load_Array> Lösung Dozent </a>
    	</td>
   </tr>
 </table>
@@ -200,7 +221,7 @@
 &#160;
 &#160;
 
---- 
+---
 
 ### Aufgaben 29.04.2020
 <table>
@@ -261,7 +282,7 @@
 &#160;
 &#160;
 
---- 
+---
 
 ### Aufgaben 28.04.2020
 <table>
@@ -354,7 +375,7 @@
 &#160;
 &#160;
 
---- 
+---
 
 ### Aufgaben 24.04.2020
 <table>
@@ -1034,7 +1055,7 @@
 
 &#160;
 
- - Exceptions - IntMatrix -> noch unbearbeitet: &#160; "Optional. Erstellen Sie eine GUI-Anwendung ... " 
+ - Exceptions - IntMatrix -> noch unbearbeitet: &#160; "Optional. Erstellen Sie eine GUI-Anwendung ... "
  
 &#160;
 &#160;
@@ -1175,5 +1196,5 @@
 &#160;
 &#160;
 
---->		
+--->
 
