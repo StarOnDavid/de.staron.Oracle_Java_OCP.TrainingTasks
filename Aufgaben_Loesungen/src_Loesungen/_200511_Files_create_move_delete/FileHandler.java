@@ -14,6 +14,7 @@ public class FileHandler {
 	
 	static void createFiles(String root, String prefix, String extension, int count) {
 		Path rootDir = Paths.get(root);
+		
 		if(!Files.exists(rootDir)) {
 			try {
 				Files.createDirectory(rootDir);
@@ -26,6 +27,7 @@ public class FileHandler {
 			String path = String.format("%s\\%s%03d.%s", root, prefix, i, extension);
 			Path filePath = Paths.get(path);
 			System.out.println("File created: \n" + path + "\n");
+			
 			try {
 				Files.createFile(filePath);
 			} catch (FileAlreadyExistsException e) {
