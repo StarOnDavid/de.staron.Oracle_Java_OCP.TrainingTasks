@@ -2,7 +2,6 @@ package _200511_Files_create_move_delete;
 
 import java.io.IOException;
 import java.nio.file.FileAlreadyExistsException;
-import java.nio.file.FileVisitOption;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -58,17 +57,7 @@ public class FileHandler {
 		Path source = Paths.get(sourceRoot);
 		Path target = Paths.get(targetRoot);
 		
-		List<Path> filePaths = new ArrayList<>();
-		
-		BiPredicate<Path, BasicFileAttributes> matcher = (path, bfa) -> bfa.isRegularFile();
-		
-		try {
-			Files.find(source, 1, matcher)
-				.filter(p -> p.toString().endsWith(extension))
-				.forEach(p -> filePaths.add(p));
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
+		List<Path> filePaths = findFiles(extension, source);
 		
 		if(!Files.exists(target)) {
 			try {
@@ -92,22 +81,13 @@ public class FileHandler {
 			}
 		}
 	} // end moveFiles
+
+	
 	
 	static void deleteFiles(String root, String extension) {
 		Path rootDir = Paths.get(root);
-		List<Path> filePaths = new ArrayList<>();
-		BiPredicate<Path, BasicFileAttributes> matcher = (path, bfa) -> 
-			{ 
-				return bfa.isRegularFile() 
-						&& path.getFileName().toString().endsWith(extension);
-			};
 		
-		try {
-			Files.find(rootDir, 1, matcher)
-				.forEach(p -> filePaths.add(p));
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
+		List<Path> filePaths = findFiles(extension, rootDir);
 		
 		for (Path path : filePaths) {
 			try {
@@ -119,4 +99,22 @@ public class FileHandler {
 			}
 		}
 	} // end deleteFiles
+	
+	private static List<Path> findFiles(String extension, Path source) {
+		List<Path> filePaths = new ArrayList<>();
+		
+		BiPredicate<Path, BasicFileAttributes> matcher = (path, bfa) -> 
+		{ 
+			return bfa.isRegularFile() 
+					&& path.getFileName().toString().endsWith(extension);
+		};
+		
+		try {
+			Files.find(source, 1, matcher)
+				.forEach(p -> filePaths.add(p));
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		return filePaths;
+	} // end findFiles
 }
