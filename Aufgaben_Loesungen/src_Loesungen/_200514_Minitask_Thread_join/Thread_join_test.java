@@ -64,7 +64,7 @@ public class Thread_join_test {
 			for (ThreadAndData tad : thads) {
 				System.out.println("Words with '" + tad.data.searched +
 									"': " + tad.data.numWords_t +
-									"\nBenötigte Zeit: " + tad.data.time + " Sek.\n");
+									"\nRequired time: " + tad.data.time + " Sek.\n");
 				
 			}
 			
