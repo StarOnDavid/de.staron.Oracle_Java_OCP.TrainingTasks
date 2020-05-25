@@ -18,7 +18,7 @@
    		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200525_Threads_ForkJoin_Simple.md> Threads - Fork-Join - Simple </a>
    	</td>
    	<td>
-   		<a href = > Lösung (fehlt noch) </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200525_Threads_ForkJoin_Simple> Lösung </a>
    	</td>
   </tr>
   <tr>
