@@ -7,6 +7,202 @@
 
 ---
 
+### 25.05.2020
+<table>
+  <tr>
+    <th width=500 align="left">Aufgabenstellungen</th>
+    <th width=500 align="left">Lösungen</th>
+  </tr>
+  <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200525_Threads_ForkJoin_Simple.md> Threads - Fork-Join - Simple </a>
+   	</td>
+   	<td>
+   		<a href = > Lösung (fehlt noch) </a>
+   	</td>
+  </tr>
+  <tr>
+  	<td></td>
+   	<td>
+   		<a href = > Lösung Dozent (fehlt noch) </a>
+   	</td>
+  </tr>
+  <tr><td>&#160;</td><td>&#160;</td></tr>
+  <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200525_Threads_ForkJoin_mit_Array.md> Threads - Fork-Join - mit einem Array </a>
+   	</td>
+   	<td>
+   		<a href = > Lösung (fehlt noch) </a>
+   	</td>
+  </tr>
+  <tr>
+  	<td></td>
+   	<td>
+   		<a href = > Lösung Dozent (fehlt noch) </a>
+   	</td>
+  </tr>
+  <tr><td>&#160;</td><td>&#160;</td></tr>
+  <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200525_Threads_ForkJoin_mit_List.md> Threads - Fork-Join - mit einer List </a>
+   	</td>
+   	<td>
+   		<a href = > Lösung (fehlt noch) </a>
+   	</td>
+  </tr>
+  <tr>
+  	<td></td>
+   	<td>
+   		<a href = > Lösung Dozent (fehlt noch) </a>
+   	</td>
+  </tr>
+</table>
+
+&#160;
+&#160;
+
+---
+
+### 22.05.2020
+<table>
+  <tr>
+    <th width=500 align="left">Aufgabenstellungen</th>
+    <th width=500 align="left">Lösungen</th>
+  </tr>
+  <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200522_Threads_ExecutorService_simple.md> ExecutorService - simple </a>
+   	</td>
+   	<td>
+   		<a href = > Lösung (fehlt noch)</a>
+   	</td>
+  </tr>
+  <tr>
+  	<td></td>
+   	<td>
+   		<a href = > Lösung Dozent (fehlt noch) </a>
+   	</td>
+  </tr>
+  <tr><td>&#160;</td><td>&#160;</td></tr
+  
+  <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200522_Threads_ExecutorService_english_words.md> ExecutorService - english words </a>
+   	</td>
+   	<td>
+   		<a href = > Lösung (fehlt noch)</a>
+   	</td>
+  </tr>
+  <tr>
+  	<td></td>
+   	<td>
+   		<a href = > Lösung Dozent (fehlt noch) </a>
+   	</td>
+  </tr>
+  <tr><td>&#160;</td><td>&#160;</td></tr>>
+  
+  <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200522_Threads_Blocking_Permutation.md> <em>Optional</em> Blocking - Permutation </a>
+   	</td>
+   	<td>
+   		<a href = > Lösung (fehlt noch)</a>
+   	</td>
+  </tr>
+  <tr>
+  	<td></td>
+   	<td>
+   		<a href = > Lösung Dozent (fehlt noch) </a>
+   	</td>
+  </tr>
+</table>
+
+&#160;
+&#160;
+
+---
+
+<table>
+  <tr>
+    <th width=500 align="left">Aufgabenstellungen</th>
+    <th width=500 align="left">Lösungen</th>
+  </tr>
+  <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200520_Threads_Wetterstation.md> Threads - Wetterstation </a>
+   	</td>
+   	<td>
+   		<a href = > Lösung (fehlt noch) </a>
+   	</td>
+  </tr>
+  <tr>
+  	<td></td>
+   	<td>
+   		<a href = > Lösung Dozent (fehlt noch) </a>
+   	</td>
+  </tr>
+</table>
+
+&#160;
+&#160;
+
+---
+
+### 19.05.2020
+<table>
+  <tr>
+    <th width=500 align="left">Aufgabenstellungen</th>
+    <th width=500 align="left">Lösungen</th>
+  </tr>
+  <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200519_Threads_Baeckerei.md>Threads - Bäckerei </a>
+   	</td>
+   	<td>
+   		<a href = > Lösung (fehlt noch) </a>
+   	</td>
+  </tr>
+  <tr>
+  	<td></td>
+   	<td>
+   		<a href = > Lösung Dozent (fehlt noch) </a>
+   	</td>
+  </tr>
+</table>
+
+&#160;
+&#160;
+
+---
+
+### 18.05.2020
+<table>
+  <tr>
+    <th width=500 align="left">Aufgabenstellungen</th>
+    <th width=500 align="left">Lösungen</th>
+  </tr>
+  <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200518_Threads_Philosophenproblem_Deadlock.md> Threads - Philosophenproblem - Deadlock </a>
+   	</td>
+   	<td>
+   		<a href = > Lösung (fehlt noch) </a>
+   	</td>
+  </tr>
+  <tr>
+  	<td></td>
+   	<td>
+   		<a href = > Lösung Dozent (fehlt noch) </a>
+   	</td>
+  </tr>
+</table>
+
+&#160;
+&#160;
+
+---
+
 ### Aufgaben 15.05.2020
 <table>
   <tr>
