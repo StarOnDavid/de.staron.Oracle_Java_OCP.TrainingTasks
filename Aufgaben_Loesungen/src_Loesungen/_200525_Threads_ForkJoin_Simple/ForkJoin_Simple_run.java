@@ -8,14 +8,12 @@ public class ForkJoin_Simple_run  {
 	static class MyRecursiveAction extends RecursiveAction {
 		private final int MAX_ELEMENTS;
 		
-		private int[] values;
 		private int indexStart, indexEnd;
 
 		public MyRecursiveAction( int indexStart, int indexEnd, int max_elements) {
 			this.MAX_ELEMENTS = max_elements;
 			this.indexStart = indexStart;
 			this.indexEnd = indexEnd;
-			fillValues();
 		}
 		@Override
 		protected void compute() {
@@ -34,13 +32,6 @@ public class ForkJoin_Simple_run  {
 				invokeAll(lower, upper);
 			}
 			
-		}
-		
-		private void fillValues() {
-			this.values = new int[indexEnd-indexStart];
-			for (int i = 0; i < values.length; i++) {
-				this.values[i] = i+indexStart;
-			}
 		}
 	}
 	
