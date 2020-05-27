@@ -1,4 +1,4 @@
-# Aufgabe 'MySqlUtils'
+# Aufgabe 'JDBC - MySqlUtils'
 
 
 ###### A1.
