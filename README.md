@@ -5,6 +5,32 @@
 
 ## Inhaltsverzeichnis dieses Repositories.
 
+### Aufgaben 29.05.2020
+<table>
+  <tr>
+    <th width=500 align="left">Aufgabenstellungen</th>
+    <th width=500 align="left">Lösungen</th>
+  </tr>
+  <tr>
+  	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/blob/master/Aufgaben_Loesungen/Aufgabenstellungen/200529_DateAndTime_Zeitspanne.md> Date-Time - Zeitspanne </a>
+   	</td>
+   	<td>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen/_200529_DateTime_Zeitspanne> Lösung </a>
+   	</td>
+  </tr>
+  <tr>
+  	<td></td>
+   	<td>
+   		<a href = > Lösung Dozent (fehlt noch) </a>
+   	</td>
+  </tr>
+  <tr><td>&#160;</td><td>&#160;</td></tr>
+</table>
+
+&#160;
+&#160;
+
 ---
 
 ### Aufgaben 28.05.2020
@@ -24,7 +50,7 @@
   <tr>
   	<td></td>
    	<td>
-   		<a href = > Lösung Dozent (fehlt noch) </a>
+   		<a href = https://github.com/StarOnDavid/de.staron.Oracle_Java_OCP.TrainingTasks/tree/master/Aufgaben_Loesungen/src_Loesungen_Dozent/_200528_DAO_interface> Lösung Dozent </a>
    	</td>
   </tr>
   <tr><td>&#160;</td><td>&#160;</td></tr>
