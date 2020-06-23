@@ -1275,27 +1275,94 @@ Comparator&lt;T&gt;</td>
 
 ## Arrays and Collections 
 
-##### Schlüssel-Methoden aus java.util.Arrays
 <table>
   <tr>
     <th width=300 align="left">Schlüssel-Methoden aus java.util.Arrays</th>
 	<th width=500 align="left">Beschreibung</th>
   </tr>
   <tr>
-	<td>clone()</td>
-	<td>Erstellt und gibt eine Kopie zurück</td>
+	<td>static List asList(T[])</td>
+	<td>Wandeln Sie ein Array in eine Liste um (und bindt diese).</td>
+  </tr>
+  <tr>
+	<td>static int binarySearch(Object[], key)<br>
+	static int binarySerch(primitiv[], key)</td>
+	<td>Durchsucht ein sortiertes Array nach einem bestimmten Wert(key); gibt einen Index oder eine Einfügemarke zurück.</td>
+  </tr>
+  <tr>
+	<td>static int binarySearch(T[], key, Comperator)</td>
+	<td>Durchsucht ein mit dem übergebene Komperrator sortiertes Array, nach einem bestimmten Wert (key).</td>
+  </tr>
+  <tr>
+	<td>static boolean equals(Object[], Object[])<br>
+	static boolean equals(primitiv[], primitiv[])</td>
+	<td>Vergleicht zwei Arrays, um festzustellen, ob ihr Inhalt gleich ist.</td>
+  </tr>
+  <tr>
+	<td>static void sort(Object[])<br>
+	static void sort(primitiv[])</td>
+	<td>Sortiert die Inhalte eines Arrays nach ihrer 'natürlichen' Ordnung (Compareable).</td>
+  </tr>
+  <tr>
+	<td>static void sort(T[], Comperator)</td>
+	<td>Sortiert die Inhalte eines Arrays nach der durch den Komperator vorgegebenen Ordnung.</td>
+  </tr>
+  <tr>
+	<td>static String toString(Object[])<br>
+	static String toString(primitiv[])</td>
+	<td>Erstellt einen String mit dem Inhalt des Arrays.</td>
   </tr>
   <tr>
 	<td></td>
 	<td></td>
   </tr>
   <tr>
-    <th width=300 align="left">Schlüssel-Methoden aus java.util.Arrays</th>
+    <th width=300 align="left">Schlüssel-Methoden aus java.util.Collections</th>
 	<th width=500 align="left">Beschreibung</th>
+  </tr>
+  <tr>
+	<td>static int binarySearch(List, key)<br>
+	static int binarySearch(List, key, Comperator)</td>
+	<td>Durchsucht ein sortiertes Array nach einem bestimmten Wert(key); gibt einen Index oder eine Einfügemarke zurück.</td>
+  </tr>
+  <tr>
+	<td>static void revers(List)</td>
+	<td>Dreht die Reihenfolge der Elemente in einer Liste um.</td>
+  </tr>
+  <tr>
+	<td>stativ Comperator reversOrder()<br>
+	stativ Comperator reversOrder(Comperator)</td>
+	<td>Gibt einen Comperator zurück, der umgekert zur aktuellen Reihenfolge sortiert.</td>
+  </tr>
+  <tr>
+	<td>static void sort(List)<br>
+	static void sort(List, Comperator)</td>
+	<td>Sortiert die List nach der 'natürlichen' Ordnung (Compareable) oder entsprechen des übergeben Comperator.</td>
   </tr>
 </table>
 
-- Collection
+---
+---
+
+## Collection
+
+<table>
+  <tr>
+    <th width=300 align="left">Schlüssel-Methoden aus java.util.Arrays</th>
+	<th width=20 align="middle"></th>
+	<th width=20 align="middle"></th>
+	<th width=20 align="middle"></th>
+	<th width=500 align="left">Beschreibung</th>
+  </tr>
+  <tr>
+	<td>boolean add(element)<br>
+	boolean add(index, element)</td>
+	<td>x<br>x</td>
+	<td>x</td>
+	<td></td>
+	<td>Fügt ein Element hinzu. Optional für Listen an einem Indexpunkt.</td>
+  </tr>
+ </table>
 
 - ArrayDeque
 - Map (auch mit funkt. Parameter)
