@@ -1,4 +1,4 @@
-### Object - Klasse
+## Object - Klasse
 
 ##### Methoden
 
@@ -68,7 +68,7 @@
 ---
 ---
 
-### Stream Interface
+## Stream Interface
 
 ##### Methoden geerbt von interface java.util.stream.BaseStream
 
@@ -285,7 +285,7 @@ close, isParallel, iterator, onClose, parallel, sequential, spliterator, unorder
 ---
 ---
 
-### Functional Interfaces (Package java.util.function)
+## Functional Interfaces (Package java.util.function)
 
 ##### BiConsumer&lt;T,U&gt;
 Stellt einen Vorgang dar, der zwei Eingabeargumente akzeptiert und kein Ergebnis zurückgibt.
@@ -308,6 +308,20 @@ Stellt einen Vorgang dar, der zwei Eingabeargumente akzeptiert und kein Ergebnis
 
 ##### BiFunktion&lt;T,U,R&gt;
 Stellt eine Funktion dar, die zwei Argumente akzeptiert und ein Ergebnis erzeugt.
+
+###### abstracte Methode
+<table>
+  <tr>
+    <th width=200 align="left">modifier and Type</th>
+	<th width=200 align="left">Methoden</th>
+	<th width=500 align="left">Beschreibung</th>
+  </tr>
+  <tr>
+	<td>void</td>
+	<td>accept(T t, U u)</td>
+	<td>Führt diese Operation mit den angegebenen Argumenten aus.</td>
+  </tr>
+</table>
 
 ##### BinaryOperator&lt;T&gt;
 Stellt eine Operation auf zwei Operanden desselben Typs dar, die ein Ergebnis desselben Typs wie die Operanden erzeugt.
