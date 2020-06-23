@@ -78,7 +78,7 @@
   </tr>
   <tr>
 	<td>boolean</td>
-	<td>allMatch(Predicate<? super T> predicate)</td>
+	<td>allMatch(Predicate/<? super T/> predicate)</td>
 	<td>
 	Gibt zurück, ob alle Elemente dieses Streams mit dem angegebenen Prädikat übereinstimmen.</td>
   </tr>
