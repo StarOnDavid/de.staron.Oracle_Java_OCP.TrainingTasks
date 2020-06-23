@@ -1355,13 +1355,88 @@ Comparator&lt;T&gt;</td>
 	<th width=500 align="left">Beschreibung</th>
   </tr>
   <tr>
-	<td>
-	boolean add(element)<br>
+	<td>boolean add(element)<br>
 	boolean add(index, element)</td>
 	<td valign="top">x<br>x</td>
 	<td valign="top">x</td>
 	<td valign="top"></td>
 	<td>Fügt ein Element hinzu. Optional für Listen an einem Indexpunkt.</td>
+  </tr>
+  <tr>
+	<td>boolean contains(object)<br>
+	boolean containsKey(object key)<br>
+	boolean containsValue(object Val)</td>
+	<td valign="top">x</td>
+	<td valign="top">x</td>
+	<td valign="top"><br>x<br>x</td>
+	<td>Durchsucht eine Sammlung nach einem Objekt (oder, optional für Maps, nach einem key); Gibt das Ergebnis als boolean zurück.</td>
+  </tr>
+  <tr>
+	<td>object get(index)<br>
+	object get(key)</td>
+	<td valign="top">x</td>
+	<td valign="top"></td>
+	<td valign="top"><br>x</td>
+	<td>Gibt ein Objekt aus einer Sammlung über einen Index oder einen Key zurück.</td>
+  </tr>
+  <tr>
+	<td>int indexOf(object)</td>
+	<td valign="top">x</td>
+	<td valign="top"></td>
+	<td valign="top"></td>
+	<td>Gibt den Index eines Objekt in einer Liste zurück.</td>
+  </tr>
+  <tr>
+	<td>Iterator iterator()</td>
+	<td valign="top">x</td>
+	<td valign="top">x</td>
+	<td valign="top"></td>
+	<td>Gibt ein Iterator für die Liste oder ein Set zurück.</td>
+  </tr>
+  <tr>
+	<td>Set keySet()</td>
+	<td valign="top"></td>
+	<td valign="top"></td>
+	<td valign="top">x</td>
+	<td>Gibt ein Set mit den Keys einer Map zurück.</td>
+  </tr>
+  <tr>
+	<td>put(key, value)</td>
+	<td valign="top"></td>
+	<td valign="top"></td>
+	<td valign="top">x</td>
+	<td>Fügt einer Map ein Key, Value paar hinzu.</td>
+  </tr>
+  <tr>
+	<td></td>
+	<td valign="top"></td>
+	<td valign="top"></td>
+	<td valign="top"></td>
+	<td></td>
+  </tr>
+  <tr>
+	<td>element remove(index)<br>
+	element remove(object)<br>
+	element remove(key)</td>
+	<td valign="top">x<br>x</td>
+	<td valign="top"><br>x</td>
+	<td valign="top"><br><br>x</td>
+	<td>Entfernt ein Element und gibt es zurück, via index, Objekt oder key.</td>
+  </tr>
+  <tr>
+	<td>int size()</td>
+	<td valign="top">x</td>
+	<td valign="top">x</td>
+	<td valign="top">x</td>
+	<td>Gibt die Anzahl der Elemente in der Collection zurück.</td>
+  </tr>
+  <tr>
+	<td>object[] toArray()<br>
+	T[] toArray(T[])</td>
+	<td valign="top">x</td>
+	<td valign="top">x</td>
+	<td valign="top"></td>
+	<td>Gibt ein Array zurück, das die Elemente der Collection enthält.</td>
   </tr>
  </table>
 
