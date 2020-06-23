@@ -1355,10 +1355,11 @@ Comparator&lt;T&gt;</td>
 	<th width=500 align="left">Beschreibung</th>
   </tr>
   <tr>
-	<td>boolean add(element)<br>
+	<td>
+	boolean add(element)<br>
 	boolean add(index, element)</td>
-	<td>x<br>x</td>
-	<td>x</td>
+	<tdvalign="top">x<br>x</td>
+	<tdvalign="top">x</td>
 	<td></td>
 	<td>Fügt ein Element hinzu. Optional für Listen an einem Indexpunkt.</td>
   </tr>
