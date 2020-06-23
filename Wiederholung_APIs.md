@@ -1,5 +1,5 @@
-##### Object - Klasse
-Methoden
+### Object - Klasse
+#####Methoden
 
 <table>
   <tr>
@@ -64,8 +64,8 @@ Methoden
   </tr>
 </table>
 
-##### Stream Interface
-Methoden
+### Stream Interface
+#####Methoden
 
 <table>
   <tr>
