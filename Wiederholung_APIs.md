@@ -1349,17 +1349,17 @@ Comparator&lt;T&gt;</td>
 <table>
   <tr>
     <th width=300 align="left">Schlüssel-Methoden aus java.util.Arrays</th>
-	<th width=20 align="middle"></th>
-	<th width=20 align="middle"></th>
-	<th width=20 align="middle"></th>
+	<th width=20 align="middle">List</th>
+	<th width=20 align="middle">Set</th>
+	<th width=20 align="middle">Map</th>
 	<th width=500 align="left">Beschreibung</th>
   </tr>
   <tr>
 	<td>boolean add(element)<br>
 	boolean add(index, element)</td>
-	<td>x<br>x</td>
-	<td>x</td>
-	<td></td>
+	<td vertical-align="top">x<br>x</td>
+	<td vertical-align="top">x</td>
+	<td vertical-align="top"></td>
 	<td>Fügt ein Element hinzu. Optional für Listen an einem Indexpunkt.</td>
   </tr>
  </table>
