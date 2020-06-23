@@ -1,6 +1,6 @@
 ### Object - Klasse
 
-#####Methoden
+##### Methoden
 
 <table>
   <tr>
@@ -67,7 +67,7 @@
 
 ### Stream Interface
 
-#####Methoden
+##### Methoden
 
 <table>
   <tr>
@@ -140,6 +140,8 @@
 	<td></td>
   </tr>
 </table>
+
+
 - Functional Interfaces (BiFunction, UnearyOp. etc.)
 - Optional
 - Comparator
