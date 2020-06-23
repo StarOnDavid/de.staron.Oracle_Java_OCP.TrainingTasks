@@ -1357,14 +1357,15 @@ Comparator&lt;T&gt;</td>
   <tr>
 	<td>boolean add(element)<br>
 	boolean add(index, element)</td>
-	<td vertical-align="top">x<br>x</td>
-	<td vertical-align="top">x</td>
-	<td vertical-align="top"></td>
+	<td style="vertical-align: top;">x<br>x</td>
+	<td style="vertical-align: top;">x</td>
+	<td style="vertical-align: top;"></td>
 	<td>Fügt ein Element hinzu. Optional für Listen an einem Indexpunkt.</td>
   </tr>
  </table>
 
-- ArrayDeque
+## ArrayDeque
+
 - Map (auch mit funkt. Parameter)
  
  - AutoCloseable / Closeable
