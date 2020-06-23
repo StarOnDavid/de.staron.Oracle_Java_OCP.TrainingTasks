@@ -78,31 +78,31 @@
   </tr>
   <tr>
 	<td>boolean</td>
-	<td>allMatch(Predicate/<? super T/> predicate)</td>
+	<td>allMatch(Predicate&lt;? super T&gt; predicate)</td>
 	<td>
 	Gibt zurück, ob alle Elemente dieses Streams mit dem angegebenen Prädikat übereinstimmen.</td>
   </tr>
   <tr>
 	<td>boolean</td>
-	<td>anyMatch(Predicate<? super T> predicate)</td>
+	<td>anyMatch(Predicate&lt;? super T&gt; predicate)</td>
 	<td>
 	Gibt zurück, ob irgend ein Elemente dieses Streams mit dem angegebenen Prädikat übereinstimmen.</td>
   </tr>
   <tr>
-	<td>static <T> Stream.Builder<T></td>
+	<td>static &lt;T&gt; Stream.Builder<T></td>
 	<td>builder(</td>
 	<td>
 	Gibt ein Builder für ein Stream zurück.</td>
   </tr>
   <tr>
 	<td><R, A> R</td>
-	<td>collect(Collector<? super T, A, R> collector)</td>
+	<td>collect(Collector&lt;? super T, A, R&gt; collector)</td>
 	<td>
 	Führt mit Hilfe eines Collectors eine veränderbare (mutable) Reduktionsoperation an den Elementen dieses Stroms durch.</td>
   </tr>
    <tr>
 	<td><R> R</td>
-	<td>collect(Supplier<R> supplier, BiConsumer<R, ? super T> accumulator, BiConsumer<R, R> combiner)</td>
+	<td>collect(Supplier&lt;R> supplier, BiConsumer&lt;R, ? super T&gt; accumulator, BiConsumer&lt;R, R&gt; combiner)</td>
 	<td>
 	Führt eine veränderbare Reduktionsoperation an den Elementen des Streams durch.</td>
   </tr>
@@ -113,38 +113,38 @@
 	Gibt zurück, die Anzahl der Elemente des Streams.</td>
   </tr>
    <tr>
-	<td>Stream<T></td>
+	<td>Stream&lt;T&gt;</td>
 	<td>distinct()</td>
 	<td>
 	Gibt zurück, ein Stream ohne doppelte elemente, basierend auf Object.equals(Object)</td>
   </tr>
    <tr>
-	<td>static <T> Stream<T></td>
+	<td>static &lt;T&gt; Stream&lt;T&gt;</td>
 	<td>empty()</td>
 	<td>
 	Gibt zurück, ob der Stream leer ist.</td>
   </tr>
    <tr>
-	<td>Stream<T></td>
-	<td>filter(Predicate<? super T> predicate)</td>
+	<td>Stream&lt;T></td>
+	<td>filter(Predicate&lt;? super T&gt; predicate)</td>
 	<td>
 	Gibt einen Strom zurück, der aus den Elementen dieses Stroms besteht, die mit dem gegebenen Prädikat übereinstimmen.</td>
   </tr>
   <tr>
-	<td>Optional<T></td>
+	<td>Optional&lt;T&gt;</td>
 	<td>findAny()</td>
 	<td>
 	Gibt ein Optional zurück, mit irgendeinem Element aus dem Stream oder ein 'empty Optional' wenn der Stream leer ist.</td>
   </tr>
    <tr>
-	<td>Optional<T></td>
+	<td>Optional&lt;T&gt;</td>
 	<td>findeFirst()</td>
 	<td>
 	Gibt ein Optional zurück, mit dem ersten Element aus dem Stream, oder 'empty Optional wenn der Stream leer ist.</td>
   </tr>
    <tr>
-	<td><R> Stream<R></td>
-	<td>flatMap(Function<? super T. ? extends Stream<? extends R>> mapper)</td>
+	<td><R> Stream&lt;R></td>
+	<td>flatMap(Function&lt;? super T. ? extends Stream&lt;? extends R&gt;&gt; mapper)</td>
 	<td>
 	Gibt einen Strom zurück, der aus den Ergebnissen der Ersetzung jedes Elements dieses Stroms durch den Inhalt eines abgebildeten Stroms besteht, der durch Anwendung der bereitgestellten Abbildungsfunktion auf jedes Element erzeugt wurde.</td>
   </tr>
