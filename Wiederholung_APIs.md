@@ -65,6 +65,9 @@
   </tr>
 </table>
 
+---
+---
+
 ### Stream Interface
 
 ##### Methoden geerbt von interface java.util.stream.BaseStream
@@ -279,6 +282,8 @@ close, isParallel, iterator, onClose, parallel, sequential, spliterator, unorder
   </tr>
 </table>
 
+---
+---
 
 ### Functional Interfaces (Package java.util.function)
 
@@ -298,6 +303,8 @@ Stellt einen Vorgang dar, der zwei Eingabeargumente akzeptiert und kein Ergebnis
 	<td>Führt diese Operation mit den angegebenen Argumenten aus.</td>
   </tr>
 </table>
+
+---
 
 ##### BiFunktion&lt;T,U,R&gt;
 Stellt eine Funktion dar, die zwei Argumente akzeptiert und ein Ergebnis erzeugt.
