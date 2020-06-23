@@ -1358,9 +1358,9 @@ Comparator&lt;T&gt;</td>
 	<td>
 	boolean add(element)<br>
 	boolean add(index, element)</td>
-	<tdvalign="top">x<br>x</td>
-	<tdvalign="top">x</td>
-	<td></td>
+	<td valign="top">x<br>x</td>
+	<td valign="top">x</td>
+	<td valign="top"></td>
 	<td>Fügt ein Element hinzu. Optional für Listen an einem Indexpunkt.</td>
   </tr>
  </table>
