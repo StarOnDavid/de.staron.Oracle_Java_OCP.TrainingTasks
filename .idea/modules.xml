@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/de.staron.Oracle_Java_OCP.TrainingTasks.iml" filepath="$PROJECT_DIR$/.idea/de.staron.Oracle_Java_OCP.TrainingTasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ds_mono/.idea/ds_mono.iml" filepath="$PROJECT_DIR$/../ds_mono/.idea/ds_mono.iml" />
+    </modules>
+  </component>
+</project>
